@@ -6,6 +6,7 @@
     "data:export": "python3 scripts/export_site_data.py",
     "dev": "npm run data:export && vite --host 0.0.0.0",
     "build": "npm run data:export && tsc -b && vite build",
+    "build:railway": "tsc -b && vite build",
     "preview": "vite preview --host 0.0.0.0",
     "start": "vite preview --host 0.0.0.0 --port ${PORT:-4173}"
   },
