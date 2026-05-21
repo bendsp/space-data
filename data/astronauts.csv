@@ -1,0 +1,741 @@
+id,name,gender,nationality,wikipedia_url,wikidata_id,first_flight_rank,first_flight_date,first_flight_name,time_in_space_seconds,time_in_space_source,segment_count,is_currently_in_space
+wikidata:Q7327,Yuri Gagarin,male,Soviet Union,https://en.wikipedia.org/wiki/Yuri_Gagarin,Q7327,1,12 April 1961,Vostok 1,6480,wikidata:P2873,1,0
+wikidata:Q174979,Alan Shepard,male,United States,https://en.wikipedia.org/wiki/Alan_Shepard,Q174979,2,5 May 1961,Freedom 7,781020,wikidata:P2873,2,0
+wikidata:Q110879,Virgil Grissom,male,United States,https://en.wikipedia.org/wiki/Gus_Grissom,Q110879,3,21 July 1961,Liberty Bell 7,18420,wikidata:P2873,2,0
+wikidata:Q152298,Gherman Titov,male,Soviet Union,https://en.wikipedia.org/wiki/Gherman_Titov,Q152298,4,6 August 1961,Vostok 2,91080,wikidata:P2873,1,0
+wikidata:Q182642,John Glenn,male,United States,https://en.wikipedia.org/wiki/John_Glenn,Q182642,5,20 February 1962,Friendship 7,804840,wikidata:P2873,2,0
+wikidata:Q335503,Scott Carpenter,male,United States,https://en.wikipedia.org/wiki/Scott_Carpenter,Q335503,6,24 May 1962,Aurora 7,17760,wikidata:P2873,1,0
+wikidata:Q312474,Andriyan Nikolayev,male,Soviet Union,https://en.wikipedia.org/wiki/Andriyan_Nikolayev,Q312474,7,11 August 1962,Vostok 3,1869600,wikidata:P2873,2,0
+wikidata:Q118490,Pavel Popovich,male,Soviet Union,https://en.wikipedia.org/wiki/Pavel_Popovich,Q118490,8,12 August 1962,Vostok 4,1614420,wikidata:P2873,2,0
+wikidata:Q110450,Walter Schirra,male,United States,https://en.wikipedia.org/wiki/Wally_Schirra,Q110450,9,3 October 1962,Sigma 7,1062720,wikidata:P2873,3,0
+wikidata:Q312833,Gordon Cooper,male,United States,https://en.wikipedia.org/wiki/Gordon_Cooper,Q312833,10,15 May 1963,Faith 7,810840,wikidata:P2873,2,0
+wikidata:Q159681,Valery Bykovsky,male,Soviet Union,https://en.wikipedia.org/wiki/Valery_Bykovsky,Q159681,11,14 June 1963,Vostok 5,1792080,wikidata:P2873,3,0
+wikidata:Q44371,Valentina Tereshkova,female,Soviet Union,https://en.wikipedia.org/wiki/Valentina_Tereshkova,Q44371,12,16 June 1963,Vostok 6,256320,wikidata:P2873,1,0
+wikidata:Q708395,Joseph Walker,male,United States,https://en.wikipedia.org/wiki/Joseph_A._Walker,Q708395,13,19 July 1963,X-15 Flight 90,1320,wikidata:P2873,2,0
+wikidata:Q352137,Boris Yegorov,male,Soviet Union,https://en.wikipedia.org/wiki/Boris_Yegorov,Q352137,14,12 October 1964,Voskhod 1,87420,wikidata:P2873,1,0
+wikidata:Q320068,Konstantin Feoktistov,male,Soviet Union,https://en.wikipedia.org/wiki/Konstantin_Feoktistov,Q320068,14,12 October 1964,Voskhod 1,87420,wikidata:P2873,1,0
+wikidata:Q104865,Vladimir Komarov,male,Soviet Union,https://en.wikipedia.org/wiki/Vladimir_Komarov,Q104865,14,12 October 1964,Voskhod 1,183840,wikidata:P2873,2,0
+wikidata:Q154269,Alexei Leonov,male,Soviet Union,https://en.wikipedia.org/wiki/Alexei_Leonov,Q154269,17,18 March 1965,Voskhod 2,606720,wikidata:P2873,2,0
+wikidata:Q157931,Pavel Belyayev,male,Soviet Union,https://en.wikipedia.org/wiki/Pavel_Belyayev,Q157931,17,18 March 1965,Voskhod 2,93720,wikidata:P2873,1,0
+wikidata:Q107667,John Young,male,United States,https://en.wikipedia.org/wiki/John_Young_(astronaut),Q107667,19,23 March 1965,Gemini 3,3008340,wikidata:P2873,6,0
+wikidata:Q216726,Edward White,male,United States,https://en.wikipedia.org/wiki/Ed_White_(astronaut),Q216726,20,3 June 1965,Gemini 4,352560,wikidata:P2873,1,0
+wikidata:Q364476,James McDivitt,male,United States,https://en.wikipedia.org/wiki/James_McDivitt,Q364476,20,3 June 1965,Gemini 4,1220160,wikidata:P2873,2,0
+wikidata:Q213076,Pete Conrad,male,United States,https://en.wikipedia.org/wiki/Pete_Conrad,Q213076,22,21 August 1965,Gemini 5,4246680,wikidata:P2873,4,0
+wikidata:Q18762,Frank Borman,male,United States,https://en.wikipedia.org/wiki/Frank_Borman,Q18762,23,4 December 1965,Gemini 7,1719300,wikidata:P2873,2,0
+wikidata:Q111240,James Lovell,male,United States,https://en.wikipedia.org/wiki/Jim_Lovell,Q111240,23,4 December 1965,Gemini 7,2574180,wikidata:P2873,4,0
+wikidata:Q316417,Thomas Stafford,male,United States,https://en.wikipedia.org/wiki/Thomas_P._Stafford,Q316417,25,15 December 1965,Gemini 6A,1827720,wikidata:P2873,3,0
+wikidata:Q278656,David Scott,male,United States,https://en.wikipedia.org/wiki/David_Scott,Q278656,26,16 March 1966,Gemini 8,1968780,wikidata:P2873,3,0
+wikidata:Q1615,Neil Armstrong,male,United States,https://en.wikipedia.org/wiki/Neil_Armstrong,Q1615,26,16 March 1966,Gemini 8,742350,wikidata:P2873,2,0
+wikipedia-first-flight:28:eugene-cernan,Eugene Cernan,,United States,https://en.wikipedia.org/wiki/Eugene_Cernan,,28,3 June 1966,Gemini 9A,260450,computed_from_segments,1,0
+wikidata:Q104859,Michael Collins,male,United States,https://en.wikipedia.org/wiki/Michael_Collins_(astronaut),Q104859,29,18 July 1966,Gemini 10,957883,wikidata:P2873,2,0
+wikidata:Q502963,Richard Gordon,male,United States,https://en.wikipedia.org/wiki/Richard_F._Gordon_Jr.,Q502963,30,12 September 1966,Gemini 11,1137180,wikidata:P2873,2,0
+wikidata:Q2252,Edwin Aldrin,male,United States,https://en.wikipedia.org/wiki/Buzz_Aldrin,Q2252,31,11 November 1966,Gemini 12,1043520,wikidata:P2873,2,0
+wikidata:Q449706,Donn Eisele,male,United States,https://en.wikipedia.org/wiki/Donn_F._Eisele,Q449706,32,11 October 1968,Apollo 7,936480,wikidata:P2873,1,0
+wikidata:Q372215,Walter Cunningham,male,United States,https://en.wikipedia.org/wiki/Walter_Cunningham,Q372215,32,11 October 1968,Apollo 7,936480,wikidata:P2873,1,0
+wikidata:Q364451,Georgy Beregovoy,male,Soviet Union,https://en.wikipedia.org/wiki/Georgy_Beregovoy,Q364451,34,26 October 1968,Soyuz 3,341400,wikidata:P2873,1,0
+wikidata:Q19242,William Anders,male,United States,https://en.wikipedia.org/wiki/William_Anders,Q19242,35,21 December 1968,Apollo 8,529200,wikidata:P2873,1,0
+wikidata:Q313399,Vladimir Shatalov,male,Soviet Union,https://en.wikipedia.org/wiki/Vladimir_Shatalov,Q313399,36,14 January 1969,Soyuz 4,856500,wikidata:P2873,3,0
+wikidata:Q381541,Aleksei Yeliseyev,male,Soviet Union,https://en.wikipedia.org/wiki/Aleksei_Yeliseyev,Q381541,37,15 January 1969,Soyuz 5,771600,wikidata:P2873,3,0
+wikidata:Q448538,Boris Volynov,male,Soviet Union,https://en.wikipedia.org/wiki/Boris_Volynov,Q448538,37,15 January 1969,Soyuz 5,4519020,wikidata:P2873,2,0
+wikidata:Q455669,Yevgeny Khrunov,male,Soviet Union,https://en.wikipedia.org/wiki/Yevgeny_Khrunov,Q455669,37,15 January 1969,Soyuz 5,171900,wikidata:P2873,1,0
+wikidata:Q363506,Russell Schweickart,male,United States,https://en.wikipedia.org/wiki/Rusty_Schweickart,Q363506,40,3 March 1969,Apollo 9,867600,wikidata:P2873,1,0
+wikidata:Q434409,Georgy Shonin,male,Soviet Union,https://en.wikipedia.org/wiki/Georgy_Shonin,Q434409,41,11 October 1969,Soyuz 6,427320,wikidata:P2873,1,0
+wikidata:Q432752,Valeri Kubasov,male,Soviet Union,https://en.wikipedia.org/wiki/Valeri_Kubasov,Q432752,41,11 October 1969,Soyuz 6,1619820,wikidata:P2873,3,0
+wikidata:Q488043,Anatoly Filipchenko,male,Soviet Union,https://en.wikipedia.org/wiki/Anatoly_Filipchenko,Q488043,43,12 October 1969,Soyuz 7,939780,wikidata:P2873,2,0
+wikidata:Q348205,Viktor Gorbatko,male,Soviet Union,https://en.wikipedia.org/wiki/Viktor_Gorbatko,Q348205,43,12 October 1969,Soyuz 7,2638020,wikidata:P2873,3,0
+wikidata:Q345658,Vladislav Volkov,male,Soviet Union,https://en.wikipedia.org/wiki/Vladislav_Volkov,Q345658,43,12 October 1969,Soyuz 7,2480460,wikidata:P2873,2,0
+wikidata:Q310924,Alan Bean,male,United States,https://en.wikipedia.org/wiki/Alan_Bean,Q310924,46,14 November 1969,Apollo 12,6018300,wikidata:P2873,2,0
+wikidata:Q318965,Fred Haise,male,United States,https://en.wikipedia.org/wiki/Fred_Haise,Q318965,47,11 April 1970,Apollo 13,514440,wikidata:P2873,1,0
+wikidata:Q348358,Jack Swigert,male,United States,https://en.wikipedia.org/wiki/Jack_Swigert,Q348358,47,11 April 1970,Apollo 13,514440,wikidata:P2873,1,0
+wikidata:Q252726,Vitaly Sevastyanov,male,Soviet Union,https://en.wikipedia.org/wiki/Vitaly_Sevastyanov,Q252726,49,1 June 1970,Soyuz 9,6970680,wikidata:P2873,2,0
+wikidata:Q295873,Edgar Mitchell,male,United States,https://en.wikipedia.org/wiki/Edgar_Mitchell,Q295873,50,31 January 1971,Apollo 14,777660,wikidata:P2873,1,0
+wikidata:Q375065,Stuart Roosa,male,United States,https://en.wikipedia.org/wiki/Stuart_Roosa,Q375065,50,31 January 1971,Apollo 14,777660,wikidata:P2873,1,0
+wikidata:Q266359,Nikolay Rukavishnikov,male,Soviet Union,https://en.wikipedia.org/wiki/Nikolay_Rukavishnikov,Q266359,52,22 April 1971,Soyuz 10,853740,wikidata:P2873,3,0
+wikidata:Q355433,Georgy Dobrovolsky,male,Soviet Union,https://en.wikipedia.org/wiki/Georgy_Dobrovolsky,Q355433,53,6 June 1971,Soyuz 11,2053260,wikidata:P2873,1,0
+wikidata:Q358525,Viktor Patsayev,male,Soviet Union,https://en.wikipedia.org/wiki/Viktor_Patsayev,Q358525,53,6 June 1971,Soyuz 11,2053260,wikidata:P2873,1,0
+wikidata:Q539385,Alfred Worden,male,United States,https://en.wikipedia.org/wiki/Alfred_Worden,Q539385,55,26 July 1971,Apollo 15,1062720,wikidata:P2873,1,0
+wikidata:Q297801,James Irwin,male,United States,https://en.wikipedia.org/wiki/James_Irwin,Q297801,55,26 July 1971,Apollo 15,1062720,wikidata:P2873,1,0
+wikidata:Q112284,Charles Duke,male,United States,https://en.wikipedia.org/wiki/Charles_Duke,Q112284,57,16 April 1972,Apollo 16,957060,wikidata:P2873,1,0
+wikidata:Q318513,Ken Mattingly,male,United States,https://en.wikipedia.org/wiki/Ken_Mattingly,Q318513,57,16 April 1972,Apollo 16,1830840,wikidata:P2873,3,0
+wikidata:Q108886,Harrison Schmitt,male,United States,https://en.wikipedia.org/wiki/Harrison_Schmitt,Q108886,59,7 December 1972,Apollo 17,1086720,wikidata:P2873,1,0
+wikidata:Q313543,Ronald Evans,male,United States,https://en.wikipedia.org/wiki/Ronald_Evans_(astronaut),Q313543,59,7 December 1972,Apollo 17,1086720,wikidata:P2873,1,0
+wikidata:Q446917,Joseph Kerwin,male,United States,https://en.wikipedia.org/wiki/Joseph_P._Kerwin,Q446917,61,25 May 1973,Skylab 2,2422200,wikidata:P2873,1,0
+wikidata:Q536632,Paul Weitz,male,United States,https://en.wikipedia.org/wiki/Paul_J._Weitz,Q536632,61,25 May 1973,Skylab 2,2855580,wikidata:P2873,2,0
+wikidata:Q363976,Jack Lousma,male,United States,https://en.wikipedia.org/wiki/Jack_R._Lousma,Q363976,63,28 July 1973,Skylab 3,5829180,wikidata:P2873,2,0
+wikidata:Q507046,Owen Garriott,male,United States,https://en.wikipedia.org/wiki/Owen_K._Garriott,Q507046,63,28 July 1973,Skylab 3,6029760,wikidata:P2873,2,0
+wikidata:Q467623,Oleg Makarov,male,Soviet Union,https://en.wikipedia.org/wiki/Oleg_Grigoryevich_Makarov,Q467623,65,27 September 1973,Soyuz 12,1790400,wikidata:P2873,3,0
+wikidata:Q365317,Vasily Lazarev,male,Soviet Union,https://en.wikipedia.org/wiki/Vasily_Lazarev,Q365317,65,27 September 1973,Soyuz 12,170100,wikidata:P2873,1,0
+wikidata:Q390344,Edward Gibson,male,United States,https://en.wikipedia.org/wiki/Edward_Gibson,Q390344,67,16 November 1973,Skylab 4,7262100,wikidata:P2873,1,0
+wikidata:Q644837,Gerald Carr,male,United States,https://en.wikipedia.org/wiki/Gerald_P._Carr,Q644837,67,16 November 1973,Skylab 4,7262100,wikidata:P2873,1,0
+wikidata:Q460440,William Pogue,male,United States,https://en.wikipedia.org/wiki/William_R._Pogue,Q460440,67,16 November 1973,Skylab 4,7262100,wikidata:P2873,1,0
+wikidata:Q434546,Pyotr Klimuk,male,Soviet Union,https://en.wikipedia.org/wiki/Pyotr_Klimuk,Q434546,70,18 December 1973,Soyuz 13,6805020,wikidata:P2873,3,0
+wikidata:Q535157,Valentin Lebedev,male,Soviet Union,https://en.wikipedia.org/wiki/Valentin_Lebedev,Q535157,70,18 December 1973,Soyuz 13,18943140,wikidata:P2873,2,0
+wikidata:Q451259,Yury Artyukhin,male,Soviet Union,https://en.wikipedia.org/wiki/Yury_Artyukhin,Q451259,72,3 July 1974,Soyuz 14,1359000,wikidata:P2873,1,0
+wikidata:Q472491,Gennadi Sarafanov,male,Soviet Union,https://en.wikipedia.org/wiki/Gennadi_Sarafanov,Q472491,73,26 August 1974,Soyuz 15,173520,wikidata:P2873,1,0
+wikidata:Q450834,Lev Dyomin,male,Soviet Union,https://en.wikipedia.org/wiki/Lev_Dyomin,Q450834,73,26 August 1974,Soyuz 15,173520,wikidata:P2873,1,0
+wikidata:Q465748,Aleksei Gubarev,male,Soviet Union,https://en.wikipedia.org/wiki/Aleksei_Gubarev,Q465748,75,10 January 1975,Soyuz 17,3238560,wikidata:P2873,2,0
+wikidata:Q434555,Georgy Grechko,male,Soviet Union,https://en.wikipedia.org/wiki/Georgy_Grechko,Q434555,75,10 January 1975,Soyuz 17,11651520,wikidata:P2873,3,0
+wikidata:Q336810,Donald Slayton,male,United States,https://en.wikipedia.org/wiki/Deke_Slayton,Q336810,77,15 July 1975,ASTP,782880,wikidata:P2873,1,0
+wikidata:Q463833,Vance Brand,male,United States,https://en.wikipedia.org/wiki/Vance_D._Brand,Q463833,77,15 July 1975,ASTP,2685720,wikidata:P2873,4,0
+wikidata:Q382184,Vitaly Zholobov,male,Soviet Union,https://en.wikipedia.org/wiki/Vitaly_Zholobov,Q382184,79,6 July 1976,Soyuz 21,4256580,wikidata:P2873,1,0
+wikidata:Q468250,Vladimir Aksyonov,male,Soviet Union,https://en.wikipedia.org/wiki/Vladimir_Aksyonov,Q468250,80,15 September 1976,Soyuz 22,1023060,wikidata:P2873,2,0
+wikidata:Q360038,Valery Rozhdestvensky,male,Soviet Union,https://en.wikipedia.org/wiki/Valery_Rozhdestvensky,Q360038,81,14 October 1976,Soyuz 23,173160,wikidata:P2873,1,0
+wikidata:Q440178,Vyacheslav Zudov,male,Soviet Union,https://en.wikipedia.org/wiki/Vyacheslav_Zudov,Q440178,81,14 October 1976,Soyuz 23,173160,wikidata:P2873,1,0
+wikidata:Q465461,Yury Glazkov,male,Soviet Union,https://en.wikipedia.org/wiki/Yury_Glazkov,Q465461,83,7 February 1977,Soyuz 24,1531500,wikidata:P2873,1,0
+wikidata:Q472497,Valery Ryumin,male,Soviet Union,https://en.wikipedia.org/wiki/Valery_Ryumin,Q472497,84,9 October 1977,Soyuz 25,32117040,wikidata:P2873,5,0
+wikidata:Q314921,Vladimir Kovalyonok,male,Soviet Union,https://en.wikipedia.org/wiki/Vladimir_Kovalyonok,Q314921,84,9 October 1977,Soyuz 25,18695280,wikidata:P2873,3,0
+wikidata:Q446720,Yury Romanenko,male,Soviet Union,https://en.wikipedia.org/wiki/Yury_Romanenko,Q446720,86,10 December 1977,Soyuz 26,37218060,wikidata:P2873,3,0
+wikidata:Q466513,Vladimir Dzhanibekov,male,Soviet Union,https://en.wikipedia.org/wiki/Vladimir_Dzhanibekov,Q466513,87,10 January 1978,Soyuz 27,12585360,wikidata:P2873,5,0
+wikidata:Q254985,Vladimír Remek,male,Czechoslovakia,https://en.wikipedia.org/wiki/Vladim%C3%ADr_Remek,Q254985,88,2 March 1978,Soyuz 28,684960,wikidata:P2873,1,0
+wikidata:Q446531,Aleksandr Ivanchenkov,male,Soviet Union,https://en.wikipedia.org/wiki/Aleksandr_Ivanchenkov,Q446531,89,15 June 1978,Soyuz 29,12746220,wikidata:P2873,2,0
+wikidata:Q361415,Mirosław Hermaszewski,male,Poland,https://en.wikipedia.org/wiki/Miros%C5%82aw_Hermaszewski,Q361415,90,27 June 1978,Soyuz 30,684180,wikidata:P2873,1,0
+wikidata:Q57229,Sigmund Jähn,male,East Germany,https://en.wikipedia.org/wiki/Sigmund_J%C3%A4hn,Q57229,91,26 August 1978,Soyuz 31,679740,wikidata:P2873,1,0
+wikidata:Q449577,Vladimir Lyakhov,male,Soviet Union,https://en.wikipedia.org/wiki/Vladimir_Lyakhov,Q449577,92,25 February 1979,Soyuz 32,28799220,wikidata:P2873,3,0
+wikidata:Q456840,Georgi Ivanov,male,Bulgaria,https://en.wikipedia.org/wiki/Georgi_Ivanov_(cosmonaut),Q456840,93,10 April 1979,Soyuz 33,169260,wikidata:P2873,1,0
+wikidata:Q433046,Leonid Popov,male,Soviet Union,https://en.wikipedia.org/wiki/Leonid_Popov,Q433046,94,9 April 1980,Soyuz 35,17333100,wikidata:P2873,4,0
+wikidata:Q12865,Bertalan Farkas,male,Hungary,https://en.wikipedia.org/wiki/Bertalan_Farkas,Q12865,95,26 May 1980,Soyuz 36,679500,wikidata:P2873,1,0
+wikidata:Q535280,Yury Malyshev,male,Soviet Union,https://en.wikipedia.org/wiki/Yury_Malyshev_(cosmonaut),Q535280,96,5 June 1980,Soyuz T-2,1022340,wikidata:P2873,2,0
+wikidata:Q353687,Phạm Tuân,male,Vietnam,https://en.wikipedia.org/wiki/Ph%E1%BA%A1m_Tu%C3%A2n,Q353687,97,23 July 1980,Soyuz 37,679320,wikidata:P2873,1,0
+wikidata:Q362902,Arnaldo Tamayo Méndez,male,Cuba,https://en.wikipedia.org/wiki/Arnaldo_Tamayo_M%C3%A9ndez,Q362902,98,18 September 1980,Soyuz 38,679380,wikidata:P2873,1,0
+wikidata:Q470256,Gennadi Strekalov,male,Soviet Union,https://en.wikipedia.org/wiki/Gennadi_Strekalov,Q470256,99,27 November 1980,Soyuz T-3,23235720,wikidata:P2873,6,0
+wikidata:Q360060,Leonid Kizim,male,Soviet Union,https://en.wikipedia.org/wiki/Leonid_Kizim,Q360060,99,27 November 1980,Soyuz T-3,32378160,wikidata:P2873,3,0
+wikidata:Q431006,Viktor Savinykh,male,Soviet Union,https://en.wikipedia.org/wiki/Viktor_Savinykh,Q431006,101,12 March 1981,Soyuz T-4,21836280,wikidata:P2873,3,0
+wikidata:Q81129,Jügderdemidiin Gürragchaa,male,Mongolia,https://en.wikipedia.org/wiki/J%C3%BCgderdemidiin_G%C3%BCrragchaa,Q81129,102,22 March 1981,Soyuz 39,679320,wikidata:P2873,1,0
+wikidata:Q315737,Robert Crippen,male,United States,https://en.wikipedia.org/wiki/Robert_Crippen,Q315737,103,12 April 1981,STS-1,2036760,wikidata:P2873,4,0
+wikidata:Q446692,Dumitru Prunariu,male,Romania,https://en.wikipedia.org/wiki/Dumitru_Prunariu,Q446692,104,14 May 1981,Soyuz 40,679320,wikidata:P2873,1,0
+wikidata:Q374034,Joseph Engle,male,United States,https://en.wikipedia.org/wiki/Joe_Engle,Q374034,105,12 November 1981,STS-2,808200,wikidata:P2873,1,0
+wikidata:Q442233,Richard Truly,male,United States,https://en.wikipedia.org/wiki/Richard_H._Truly,Q442233,105,12 November 1981,STS-2,717660,wikidata:P2873,1,0
+wikidata:Q519268,Charles Fullerton,male,United States,https://en.wikipedia.org/wiki/C._Gordon_Fullerton,Q519268,107,22 March 1982,STS-3,1378200,wikidata:P2873,2,0
+wikidata:Q465724,Anatoly Berezovoy,male,Soviet Union,https://en.wikipedia.org/wiki/Anatoly_Berezovoy,Q465724,108,13 May 1982,Soyuz T-5,18263040,wikidata:P2873,1,0
+wikidata:Q434205,Jean-Loup Chrétien,male,France,https://en.wikipedia.org/wiki/Jean-Loup_Chr%C3%A9tien,Q434205,109,24 June 1982,Soyuz T-6,3755940,wikidata:P2873,3,0
+wikidata:Q460161,Henry Hartsfield,male,United States,https://en.wikipedia.org/wiki/Henry_Hartsfield,Q460161,110,27 June 1982,STS-4,1738200,wikidata:P2873,3,0
+wikidata:Q362819,Aleksandr Serebrov,male,Soviet Union,https://en.wikipedia.org/wiki/Aleksandr_Serebrov,Q362819,111,19 August 1982,Soyuz T-7,32223120,wikidata:P2873,4,0
+wikidata:Q152318,Svetlana Savitskaya,female,Soviet Union,https://en.wikipedia.org/wiki/Svetlana_Savitskaya,Q152318,111,19 August 1982,Soyuz T-7,1703160,wikidata:P2873,2,0
+wikidata:Q443994,Joseph Allen,male,United States,https://en.wikipedia.org/wiki/Joseph_P._Allen,Q443994,113,11 November 1982,STS-5,1130280,wikidata:P2873,2,0
+wikidata:Q519149,Robert Overmyer,male,United States,https://en.wikipedia.org/wiki/Robert_F._Overmyer,Q519149,113,11 November 1982,STS-5,1045320,wikidata:P2873,2,0
+wikidata:Q376165,William Lenoir,male,United States,https://en.wikipedia.org/wiki/William_B._Lenoir,Q376165,113,11 November 1982,STS-5,440040,wikidata:P2873,1,0
+wikidata:Q557058,Donald Peterson,male,United States,https://en.wikipedia.org/wiki/Donald_H._Peterson,Q557058,116,4 April 1983,STS-6,433380,wikidata:P2873,1,0
+wikidata:Q180499,Karol Bobko,male,United States,https://en.wikipedia.org/wiki/Karol_J._Bobko,Q180499,116,4 April 1983,STS-6,1389780,wikidata:P2873,3,0
+wikidata:Q462132,Story Musgrave,male,United States,https://en.wikipedia.org/wiki/Story_Musgrave,Q462132,116,4 April 1983,STS-6,4614900,wikidata:P2873,6,0
+wikidata:Q466069,Vladimir Titov,male,Soviet Union,https://en.wikipedia.org/wiki/Vladimir_Georgiyevich_Titov,Q466069,119,20 April 1983,Soyuz T-8,32661900,wikidata:P2873,6,0
+wikidata:Q720124,Frederick Hauck,male,United States,https://en.wikipedia.org/wiki/Frederick_Hauck,Q720124,120,18 June 1983,STS-7,1566420,wikidata:P2873,3,0
+wikidata:Q720160,John Fabian,male,United States,https://en.wikipedia.org/wiki/John_M._Fabian,Q720160,120,18 June 1983,STS-7,1137720,wikidata:P2873,2,0
+wikidata:Q143103,Norman Thagard,male,United States,https://en.wikipedia.org/wiki/Norman_Thagard,Q143103,120,18 June 1983,STS-7,12144240,wikidata:P2873,5,0
+wikidata:Q49285,Sally Ride,female,United States,https://en.wikipedia.org/wiki/Sally_Ride,Q49285,120,18 June 1983,STS-7,1237560,wikidata:P2873,2,0
+wikidata:Q466483,Aleksandr Pavlovich Aleksandrov,male,Soviet Union,https://en.wikipedia.org/wiki/Aleksandr_Pavlovich_Aleksandrov,Q466483,124,27 June 1983,Soyuz T-9,26762520,wikidata:P2873,2,0
+wikidata:Q426836,Dale Gardner,male,United States,https://en.wikipedia.org/wiki/Dale_Gardner,Q426836,125,30 August 1983,STS-8,1212720,wikidata:P2873,2,0
+wikidata:Q722513,Daniel Brandenstein,male,United States,https://en.wikipedia.org/wiki/Daniel_Brandenstein,Q722513,125,30 August 1983,STS-8,2840580,wikidata:P2873,4,0
+wikidata:Q528943,Guion Bluford,male,United States,https://en.wikipedia.org/wiki/Guion_Bluford,Q528943,125,30 August 1983,STS-8,2478780,wikidata:P2873,4,0
+wikidata:Q719926,William Thornton,male,United States,https://en.wikipedia.org/wiki/William_E._Thornton,Q719926,125,30 August 1983,STS-8,1127760,wikidata:P2873,2,0
+wikidata:Q497530,Brewster Shaw,male,United States,https://en.wikipedia.org/wiki/Brewster_H._Shaw,Q497530,129,28 November 1983,STS-9,1921860,wikidata:P2873,3,0
+wikidata:Q1018622,Byron Lichtenberg,male,United States,https://en.wikipedia.org/wiki/Byron_K._Lichtenberg,Q1018622,129,28 November 1983,STS-9,1662960,wikidata:P2873,2,0
+wikidata:Q534597,Robert Parker,male,United States,https://en.wikipedia.org/wiki/Robert_A._Parker,Q534597,129,28 November 1983,STS-9,1666320,wikidata:P2873,2,0
+wikidata:Q215124,Ulf Merbold,male,West Germany,https://en.wikipedia.org/wiki/Ulf_Merbold,Q215124,129,28 November 1983,STS-9,4311360,wikidata:P2873,3,0
+wikidata:Q433608,Bruce McCandless,male,United States,https://en.wikipedia.org/wiki/Bruce_McCandless_II,Q433608,133,3 February 1984,STS-41-B,1125060,wikidata:P2873,2,0
+wikidata:Q498775,Robert Gibson,male,United States,https://en.wikipedia.org/wiki/Robert_L._Gibson,Q498775,133,3 February 1984,STS-41-B,3125700,wikidata:P2873,5,0
+wikidata:Q41432,Robert Stewart,male,United States,https://en.wikipedia.org/wiki/Robert_L._Stewart,Q41432,133,3 February 1984,STS-41-B,1039740,wikidata:P2873,2,0
+wikidata:Q315730,Ronald McNair,male,United States,https://en.wikipedia.org/wiki/Ronald_McNair,Q315730,133,3 February 1984,STS-41-B,688500,wikidata:P2873,1,0
+wikidata:Q708484,Oleg Atkov,male,Soviet Union,https://en.wikipedia.org/wiki/Oleg_Atkov,Q708484,137,8 February 1984,Soyuz T-10,20472540,wikidata:P2873,1,0
+wikidata:Q535172,Vladimir Solovyov,male,Soviet Union,https://en.wikipedia.org/wiki/Vladimir_Solovyov_(cosmonaut),Q535172,137,8 February 1984,Soyuz T-10,31272540,wikidata:P2873,2,0
+wikidata:Q325205,Rakesh Sharma,male,India,https://en.wikipedia.org/wiki/Rakesh_Sharma,Q325205,139,3 April 1984,Soyuz T-11,682800,wikidata:P2873,1,0
+wikidata:Q320047,Francis Scobee,male,United States,https://en.wikipedia.org/wiki/Dick_Scobee,Q320047,140,6 April 1984,STS-41-C,603600,wikidata:P2873,1,0
+wikidata:Q519124,George Nelson,male,United States,https://en.wikipedia.org/wiki/George_Nelson_(astronaut),Q519124,140,6 April 1984,STS-41-C,1478580,wikidata:P2873,3,0
+wikidata:Q634822,James van Hoften,male,United States,https://en.wikipedia.org/wiki/James_van_Hoften,Q634822,140,6 April 1984,STS-41-C,1216620,wikidata:P2873,2,0
+wikidata:Q720172,Terry Hart,male,United States,https://en.wikipedia.org/wiki/Terry_Hart,Q720172,140,6 April 1984,STS-41-C,603600,wikidata:P2873,1,0
+wikidata:Q280301,Igor Volk,male,Soviet Union,https://en.wikipedia.org/wiki/Igor_Volk,Q280301,144,17 July 1984,Soyuz T-12,1019640,wikidata:P2873,1,0
+wikidata:Q1064074,Charles Walker,male,United States,https://en.wikipedia.org/wiki/Charles_D._Walker,Q1064074,145,30 August 1984,STS-41-D,1282800,wikidata:P2873,3,0
+wikidata:Q49284,Judith Resnik,female,United States,https://en.wikipedia.org/wiki/Judith_Resnik,Q49284,145,30 August 1984,STS-41-D,521760,wikidata:P2873,1,0
+wikidata:Q720194,Michael Coats,male,United States,https://en.wikipedia.org/wiki/Michael_Coats,Q720194,145,30 August 1984,STS-41-D,1670160,wikidata:P2873,3,0
+wikidata:Q720182,Richard Mullane,male,United States,https://en.wikipedia.org/wiki/Mike_Mullane,Q720182,145,30 August 1984,STS-41-D,1282800,wikidata:P2873,3,0
+wikidata:Q660570,Steven Hawley,male,United States,https://en.wikipedia.org/wiki/Steven_Hawley,Q660570,145,30 August 1984,STS-41-D,2774520,wikidata:P2873,5,0
+wikidata:Q1174077,David Leestma,male,United States,https://en.wikipedia.org/wiki/David_Leestma,Q1174077,150,5 October 1984,STS-41-G,1917120,wikidata:P2873,3,0
+wikidata:Q718499,Jon McBride,male,United States,https://en.wikipedia.org/wiki/Jon_McBride,Q718499,150,5 October 1984,STS-41-G,710580,wikidata:P2873,1,0
+wikidata:Q464166,Kathryn Sullivan,female,United States,https://en.wikipedia.org/wiki/Kathryn_D._Sullivan,Q464166,150,5 October 1984,STS-41-G,1918140,wikidata:P2873,3,0
+wikidata:Q703321,Marc Garneau,male,Canada,https://en.wikipedia.org/wiki/Marc_Garneau,Q703321,150,5 October 1984,STS-41-G,2512860,wikidata:P2873,3,0
+wikidata:Q493699,Paul Scully-Power,male,United States,https://en.wikipedia.org/wiki/Paul_Scully-Power,Q493699,150,5 October 1984,STS-41-G,710580,wikidata:P2873,1,0
+wikidata:Q237470,Anna Fisher,female,United States,https://en.wikipedia.org/wiki/Anna_Lee_Fisher,Q237470,155,8 November 1984,STS-51-A,690240,wikidata:P2873,1,0
+wikidata:Q720351,David Walker,male,United States,https://en.wikipedia.org/wiki/David_M._Walker_(astronaut),Q720351,155,8 November 1984,STS-51-A,2608020,wikidata:P2873,4,0
+wikidata:Q349365,Ellison Onizuka,male,United States,https://en.wikipedia.org/wiki/Ellison_Onizuka,Q349365,157,24 January 1985,STS-51-C,264780,wikidata:P2873,1,0
+wikidata:Q1494855,Gary Payton,male,United States,https://en.wikipedia.org/wiki/Gary_Payton_(astronaut),Q1494855,157,24 January 1985,STS-51-C,264780,wikidata:P2873,1,0
+wikidata:Q692263,James Buchli,male,United States,https://en.wikipedia.org/wiki/James_Buchli,Q692263,157,24 January 1985,STS-51-C,1765500,wikidata:P2873,4,0
+wikidata:Q717641,Loren Shriver,male,United States,https://en.wikipedia.org/wiki/Loren_Shriver,Q717641,157,24 January 1985,STS-51-C,1389840,wikidata:P2873,3,0
+wikidata:Q717654,Donald Williams,male,United States,https://en.wikipedia.org/wiki/Donald_E._Williams,Q717654,161,12 April 1985,STS-51-D,1035240,wikidata:P2873,2,0
+wikidata:Q519256,Edwin Garn,male,United States,https://en.wikipedia.org/wiki/Jake_Garn,Q519256,161,12 April 1985,STS-51-D,604500,wikidata:P2873,1,0
+wikidata:Q719911,Jeffrey Hoffman,male,United States,https://en.wikipedia.org/wiki/Jeffrey_A._Hoffman,Q719911,161,12 April 1985,STS-51-D,4362840,wikidata:P2873,5,0
+wikidata:Q254298,Margaret Seddon,female,United States,https://en.wikipedia.org/wiki/Margaret_Rhea_Seddon,Q254298,161,12 April 1985,STS-51-D,2600460,wikidata:P2873,3,0
+wikidata:Q719921,Stanley Griggs,male,United States,https://en.wikipedia.org/wiki/S._David_Griggs,Q719921,161,12 April 1985,STS-51-D,604500,wikidata:P2873,1,0
+wikidata:Q707626,Don Lind,male,United States,https://en.wikipedia.org/wiki/Don_L._Lind,Q707626,166,29 April 1985,STS-51-B,605280,wikidata:P2873,1,0
+wikidata:Q557066,Frederick Gregory,male,United States,https://en.wikipedia.org/wiki/Frederick_D._Gregory,Q557066,166,29 April 1985,STS-51-B,1638240,wikidata:P2873,3,0
+wikidata:Q719635,Lodewijk van den Berg,male,United States,https://en.wikipedia.org/wiki/Lodewijk_van_den_Berg,Q719635,166,29 April 1985,STS-51-B,604800,wikidata:P2873,1,0
+wikidata:Q707736,Taylor Wang,male,United States,https://en.wikipedia.org/wiki/Taylor_Wang,Q707736,166,29 April 1985,STS-51-B,605280,wikidata:P2873,1,0
+wikidata:Q718729,John Creighton,male,United States,https://en.wikipedia.org/wiki/John_Oliver_Creighton,Q718729,170,17 June 1985,STS-51-G,1455840,wikidata:P2873,3,0
+wikidata:Q254058,Patrick Baudry,male,France,https://en.wikipedia.org/wiki/Patrick_Baudry,Q254058,170,17 June 1985,STS-51-G,610680,wikidata:P2873,1,0
+wikidata:Q233795,Shannon Lucid,female,United States,https://en.wikipedia.org/wiki/Shannon_Lucid,Q233795,170,17 June 1985,STS-51-G,19277400,wikidata:P2873,6,0
+wikidata:Q720361,Steven Nagel,male,United States,https://en.wikipedia.org/wiki/Steven_R._Nagel,Q720361,170,17 June 1985,STS-51-G,2597640,wikidata:P2873,4,0
+wikidata:Q379946,Sultan Al-Saud,male,Saudi Arabia,https://en.wikipedia.org/wiki/Sultan_bin_Salman_Al_Saud,Q379946,170,17 June 1985,STS-51-G,610680,wikidata:P2873,1,0
+wikidata:Q574124,Anthony England,male,United States,https://en.wikipedia.org/wiki/Anthony_W._England,Q574124,175,29 July 1985,STS-51-F,686700,wikidata:P2873,1,0
+wikidata:Q1393554,John Bartoe,male,United States,https://en.wikipedia.org/wiki/John-David_F._Bartoe,Q1393554,175,29 July 1985,STS-51-F,686700,wikidata:P2873,1,0
+wikidata:Q722390,Karl Henize,male,United States,https://en.wikipedia.org/wiki/Karl_Gordon_Henize,Q722390,175,29 July 1985,STS-51-F,686700,wikidata:P2873,1,0
+wikidata:Q732906,Loren Acton,male,United States,https://en.wikipedia.org/wiki/Loren_Acton,Q732906,175,29 July 1985,STS-51-F,686700,wikidata:P2873,1,0
+wikidata:Q1338950,Roy Bridges,male,United States,https://en.wikipedia.org/wiki/Roy_D._Bridges_Jr.,Q1338950,175,29 July 1985,STS-51-F,686700,wikidata:P2873,1,0
+wikidata:Q501697,John Lounge,male,United States,https://en.wikipedia.org/wiki/John_M._Lounge,Q501697,180,27 August 1985,STS-51-I,1736580,wikidata:P2873,3,0
+wikidata:Q658221,Richard Covey,male,United States,https://en.wikipedia.org/wiki/Richard_O._Covey,Q658221,180,27 August 1985,STS-51-I,2322540,wikidata:P2873,4,0
+wikidata:Q185560,William Fisher,male,United States,https://en.wikipedia.org/wiki/William_Frederick_Fisher,Q185560,180,27 August 1985,STS-51-I,613020,wikidata:P2873,1,0
+wikidata:Q446233,Aleksandr Volkov,male,Soviet Union,https://en.wikipedia.org/wiki/Aleksandr_Aleksandrovich_Volkov,Q446233,183,17 September 1985,Soyuz T-14,33825120,wikidata:P2873,2,0
+wikidata:Q708689,Vladimir Vasyutin,male,Soviet Union,https://en.wikipedia.org/wiki/Vladimir_Vasyutin,Q708689,183,17 September 1985,Soyuz T-14,5608320,wikidata:P2873,1,0
+wikidata:Q1173930,David Hilmers,male,United States,https://en.wikipedia.org/wiki/David_C._Hilmers,Q1173930,185,3 October 1985,STS-51-J,1779360,wikidata:P2873,4,0
+wikidata:Q491064,Ronald Grabe,male,United States,https://en.wikipedia.org/wiki/Ronald_J._Grabe,Q491064,185,3 October 1985,STS-51-J,2259480,wikidata:P2873,4,0
+wikidata:Q1373573,William Pailes,male,United States,https://en.wikipedia.org/wiki/William_A._Pailes,Q1373573,185,3 October 1985,STS-51-J,351840,wikidata:P2873,1,0
+wikidata:Q29618,Bonnie Dunbar,female,United States,https://en.wikipedia.org/wiki/Bonnie_J._Dunbar,Q29618,188,30 October 1985,STS-61-A,4350240,wikidata:P2873,5,0
+wikidata:Q215002,Ernst Messerschmid,male,West Germany,https://en.wikipedia.org/wiki/Ernst_Messerschmid,Q215002,188,30 October 1985,STS-61-A,607440,wikidata:P2873,1,0
+wikidata:Q215131,Reinhard Furrer,male,West Germany,https://en.wikipedia.org/wiki/Reinhard_Furrer,Q215131,188,30 October 1985,STS-61-A,607440,wikidata:P2873,1,0
+wikidata:Q944386,Wubbo Ockels,male,Netherlands,https://en.wikipedia.org/wiki/Wubbo_Ockels,Q944386,188,30 October 1985,STS-61-A,607440,wikidata:P2873,1,0
+wikidata:Q995007,Bryan O'Connor,male,United States,https://en.wikipedia.org/wiki/Bryan_D._O%27Connor,Q995007,192,27 November 1985,STS-61-B,1379880,wikidata:P2873,2,0
+wikidata:Q383515,Jerry Ross,male,United States,https://en.wikipedia.org/wiki/Jerry_L._Ross,Q383515,192,27 November 1985,STS-61-B,5014320,wikidata:P2873,7,0
+wikidata:Q21842,Mary Cleave,female,United States,https://en.wikipedia.org/wiki/Mary_L._Cleave,Q21842,192,27 November 1985,STS-61-B,943320,wikidata:P2873,2,0
+wikidata:Q704639,Rodolfo Neri Vela,male,Mexico,https://en.wikipedia.org/wiki/Rodolfo_Neri_Vela,Q704639,192,27 November 1985,STS-61-B,594240,wikidata:P2873,1,0
+wikidata:Q985049,Sherwood Spring,male,United States,https://en.wikipedia.org/wiki/Sherwood_C._Spring,Q985049,192,27 November 1985,STS-61-B,594240,wikidata:P2873,1,0
+wikidata:Q358437,Bill Nelson,male,United States,https://en.wikipedia.org/wiki/Bill_Nelson_(politician),Q358437,197,12 January 1986,STS-61-C,525780,wikidata:P2873,1,0
+wikidata:Q25011,Charles Bolden,male,United States,https://en.wikipedia.org/wiki/Charles_Bolden,Q25011,197,12 January 1986,STS-61-C,2450220,wikidata:P2873,4,0
+wikidata:Q360433,Franklin Chang-Díaz,male,United States,https://en.wikipedia.org/wiki/Franklin_Chang-D%C3%ADaz,Q360433,197,12 January 1986,STS-61-C,5768160,wikidata:P2873,7,0
+wikidata:Q644029,Robert Cenker,male,United States,https://en.wikipedia.org/wiki/Robert_J._Cenker,Q644029,197,12 January 1986,STS-61-C,525780,wikidata:P2873,1,0
+wikidata:Q708452,Aleksandr Laveykin,male,Soviet Union,https://en.wikipedia.org/wiki/Aleksandr_Laveykin,Q708452,201,5 February 1987,Soyuz TM-2,15045900,wikidata:P2873,1,0
+wikidata:Q221615,Aleksandr Viktorenko,male,Soviet Union,https://en.wikipedia.org/wiki/Aleksandr_Viktorenko,Q221615,202,22 July 1987,Soyuz TM-3,43032780,wikidata:P2873,4,0
+wikidata:Q430996,Muhammed Faris,male,Syria,https://en.wikipedia.org/wiki/Muhammed_Faris,Q430996,202,22 July 1987,Soyuz TM-3,687840,wikidata:P2873,1,0
+wikidata:Q488008,Anatoly Levchenko,male,Soviet Union,https://en.wikipedia.org/wiki/Anatoly_Levchenko,Q488008,204,21 December 1987,Soyuz TM-4,683880,wikidata:P2873,1,0
+wikidata:Q467732,Musa Manarov,male,Soviet Union,https://en.wikipedia.org/wiki/Musa_Manarov,Q467732,204,21 December 1987,Soyuz TM-4,46744080,wikidata:P2873,3,0
+wikidata:Q444299,Aleksandr Panayotov Aleksandrov,male,Bulgaria,https://en.wikipedia.org/wiki/Aleksandr_Panayotov_Aleksandrov,Q444299,206,7 June 1988,Soyuz TM-5,850200,wikidata:P2873,1,0
+wikidata:Q447311,Anatoly Solovyev,male,Soviet Union,https://en.wikipedia.org/wiki/Anatoly_Solovyev,Q447311,206,7 June 1988,Soyuz TM-5,56246520,wikidata:P2873,5,0
+wikipedia-first-flight:208:abdul-mohmand,Abdul Mohmand,,Afghanistan,https://en.wikipedia.org/wiki/Abdul_Ahad_Mohmand,,208,29 August 1988,Soyuz TM-6,9869629,computed_from_segments,1,0
+wikidata:Q317792,Valeri Polyakov,male,Soviet Union,https://en.wikipedia.org/wiki/Valeri_Polyakov,Q317792,208,29 August 1988,Soyuz TM-6,58638720,wikidata:P2873,3,0
+wikidata:Q313815,Sergei Krikalev,male,Soviet Union,https://en.wikipedia.org/wiki/Sergei_Krikalev,Q313815,210,26 November 1988,Soyuz TM-7,69413940,wikidata:P2873,6,0
+wikidata:Q1376909,Guy Gardner,male,United States,https://en.wikipedia.org/wiki/Guy_Gardner_(astronaut),Q1376909,211,2 December 1988,STS-27,1152600,wikidata:P2873,2,0
+wikidata:Q361932,William Shepherd,male,United States,https://en.wikipedia.org/wiki/William_Shepherd,Q361932,211,2 December 1988,STS-27,13765740,wikidata:P2873,4,0
+wikidata:Q718630,James Bagian,male,United States,https://en.wikipedia.org/wiki/James_P._Bagian,Q718630,213,13 March 1989,STS-29,1216380,wikidata:P2873,2,0
+wikidata:Q609639,John Blaha,male,United States,https://en.wikipedia.org/wiki/John_E._Blaha,Q609639,213,13 March 1989,STS-29,13920300,wikidata:P2873,6,0
+wikidata:Q2036753,Robert Springer,male,United States,https://en.wikipedia.org/wiki/Robert_C._Springer,Q2036753,213,13 March 1989,STS-29,855120,wikidata:P2873,2,0
+wikidata:Q746108,Mark Lee,male,United States,https://en.wikipedia.org/wiki/Mark_C._Lee,Q746108,216,4 May 1989,STS-30,2843160,wikidata:P2873,4,0
+wikidata:Q649109,James Adamson,male,United States,https://en.wikipedia.org/wiki/James_C._Adamson,Q649109,217,8 August 1989,STS-28,1203660,wikidata:P2873,2,0
+wikidata:Q1371289,Mark Brown,male,United States,https://en.wikipedia.org/wiki/Mark_N._Brown,Q1371289,217,8 August 1989,STS-28,898020,wikidata:P2873,2,0
+wikidata:Q2036770,Richard Richards,male,United States,https://en.wikipedia.org/wiki/Richard_N._Richards,Q2036770,217,8 August 1989,STS-28,2928540,wikidata:P2873,4,0
+wikidata:Q264460,Ellen Baker,female,United States,https://en.wikipedia.org/wiki/Ellen_S._Baker,Q264460,220,18 October 1989,STS-34,2471460,wikidata:P2873,3,0
+wikidata:Q1372222,Michael McCulley,male,United States,https://en.wikipedia.org/wiki/Michael_J._McCulley,Q1372222,220,18 October 1989,STS-34,430740,wikidata:P2873,1,0
+wikidata:Q289337,Kathryn Thornton,female,United States,https://en.wikipedia.org/wiki/Kathryn_C._Thornton,Q289337,222,23 November 1989,STS-33,3510840,wikidata:P2873,4,0
+wikidata:Q1338912,Manley Carter,male,United States,https://en.wikipedia.org/wiki/Sonny_Carter,Q1338912,222,23 November 1989,STS-33,432360,wikidata:P2873,1,0
+wikidata:Q1507223,George Low,male,United States,https://en.wikipedia.org/wiki/G._David_Low,Q1507223,224,9 January 1990,STS-32,2570700,wikidata:P2873,3,0
+wikidata:Q724552,James Wetherbee,male,United States,https://en.wikipedia.org/wiki/Jim_Wetherbee,Q724552,224,9 January 1990,STS-32,5739780,wikidata:P2873,6,0
+wikidata:Q41632,Marsha Ivins,female,United States,https://en.wikipedia.org/wiki/Marsha_Ivins,Q41632,224,9 January 1990,STS-32,4830480,wikidata:P2873,5,0
+wikidata:Q725659,Aleksandr Balandin,male,Soviet Union,https://en.wikipedia.org/wiki/Aleksandr_Nikolayevich_Balandin,Q725659,227,11 February 1990,Soyuz TM-9,15470220,wikidata:P2873,1,0
+wikidata:Q1338925,John Casper,male,United States,https://en.wikipedia.org/wiki/John_Casper,Q1338925,228,28 February 1990,STS-36,2973120,wikidata:P2873,4,0
+wikidata:Q281819,Pierre Thuot,male,United States,https://en.wikipedia.org/wiki/Pierre_J._Thuot,Q281819,228,28 February 1990,STS-36,2357460,wikidata:P2873,3,0
+wikidata:Q956160,Gennadi Manakov,male,Soviet Union,https://en.wikipedia.org/wiki/Gennadi_Manakov,Q956160,230,1 August 1990,Soyuz TM-10,26774280,wikidata:P2873,2,0
+wikidata:Q540108,Bruce Melnick,male,United States,https://en.wikipedia.org/wiki/Bruce_E._Melnick,Q540108,231,6 October 1990,STS-41,1121220,wikidata:P2873,2,0
+wikidata:Q1338436,Robert Cabana,male,United States,https://en.wikipedia.org/wiki/Robert_D._Cabana,Q1338436,231,6 October 1990,STS-41,3278520,wikidata:P2873,4,0
+wikidata:Q539337,Thomas Akers,male,United States,https://en.wikipedia.org/wiki/Thomas_Akers,Q539337,231,6 October 1990,STS-41,2933040,wikidata:P2873,4,0
+wikidata:Q1800097,Carl Meade,male,United States,https://en.wikipedia.org/wiki/Carl_J._Meade,Q1800097,234,15 November 1990,STS-38,2564040,wikidata:P2873,3,0
+wikidata:Q1064149,Charles Gemar,male,United States,https://en.wikipedia.org/wiki/Charles_D._Gemar,Q1064149,234,15 November 1990,STS-38,2093880,wikidata:P2873,3,0
+wikidata:Q705636,Frank Culbertson,male,United States,https://en.wikipedia.org/wiki/Frank_L._Culbertson_Jr.,Q705636,234,15 November 1990,STS-38,12408600,wikidata:P2873,4,0
+wikidata:Q1385274,Ronald Parise,male,United States,https://en.wikipedia.org/wiki/Ronald_A._Parise,Q1385274,237,2 December 1990,STS-35,2211180,wikidata:P2873,2,0
+wikidata:Q1384803,Samuel Durrance,male,United States,https://en.wikipedia.org/wiki/Samuel_T._Durrance,Q1384803,237,2 December 1990,STS-35,2211180,wikidata:P2873,2,0
+wikidata:Q285944,Toyohiro Akiyama,male,Japan,https://en.wikipedia.org/wiki/Toyohiro_Akiyama,Q285944,239,2 December 1990,Soyuz TM-11,683640,wikidata:P2873,1,0
+wikidata:Q471486,Viktor Afanasyev,male,Soviet Union,https://en.wikipedia.org/wiki/Viktor_Mikhailovich_Afanasyev,Q471486,239,2 December 1990,Soyuz TM-11,48018780,wikidata:P2873,4,0
+wikidata:Q957250,Jerome Apt,male,United States,https://en.wikipedia.org/wiki/Jerome_Apt,Q957250,241,5 April 1991,STS-37,3049800,wikidata:P2873,4,0
+wikidata:Q378952,Kenneth Cameron,male,United States,https://en.wikipedia.org/wiki/Kenneth_D._Cameron,Q378952,241,5 April 1991,STS-37,2023860,wikidata:P2873,3,0
+wikidata:Q433337,Linda Godwin,female,United States,https://en.wikipedia.org/wiki/Linda_M._Godwin,Q433337,241,5 April 1991,STS-37,3305580,wikidata:P2873,4,0
+wikidata:Q573473,Charles Veach,male,United States,https://en.wikipedia.org/wiki/Charles_L._Veach,Q573473,244,28 April 1991,STS-39,1570680,wikidata:P2873,2,0
+wikidata:Q1240263,Donald McMonagle,male,United States,https://en.wikipedia.org/wiki/Donald_R._McMonagle,Q1240263,244,28 April 1991,STS-39,2180040,wikidata:P2873,3,0
+wikidata:Q1545374,Gregory Harbaugh,male,United States,https://en.wikipedia.org/wiki/Gregory_J._Harbaugh,Q1545374,244,28 April 1991,STS-39,2944740,wikidata:P2873,4,0
+wikidata:Q1866915,Lloyd Hammond,male,United States,https://en.wikipedia.org/wiki/L._Blaine_Hammond,Q1866915,244,28 April 1991,STS-39,1663860,wikidata:P2873,2,0
+wikidata:Q607394,Richard Hieb,male,United States,https://en.wikipedia.org/wiki/Richard_Hieb,Q607394,244,28 April 1991,STS-39,2759640,wikidata:P2873,3,0
+wikidata:Q487984,Anatoly Artsebarsky,male,Soviet Union,https://en.wikipedia.org/wiki/Anatoly_Artsebarsky,Q487984,249,18 May 1991,Soyuz TM-12,12496860,wikidata:P2873,1,0
+wikidata:Q237473,Helen Sharman,female,United Kingdom,https://en.wikipedia.org/wiki/Helen_Sharman,Q237473,249,18 May 1991,Soyuz TM-12,681180,wikidata:P2873,1,0
+wikidata:Q201797,Francis Gaffney,male,United States,https://en.wikipedia.org/wiki/F._Drew_Gaffney,Q201797,251,5 June 1991,STS-40,785640,wikidata:P2873,1,0
+wikidata:Q446243,Millie Hughes-Fulford,female,United States,https://en.wikipedia.org/wiki/Millie_Hughes-Fulford,Q446243,251,5 June 1991,STS-40,785640,wikidata:P2873,1,0
+wikidata:Q2032646,Sidney Gutierrez,male,United States,https://en.wikipedia.org/wiki/Sidney_M._Gutierrez,Q2032646,251,5 June 1991,STS-40,1756980,wikidata:P2873,2,0
+wikidata:Q262359,Tamara Jernigan,female,United States,https://en.wikipedia.org/wiki/Tamara_E._Jernigan,Q262359,251,5 June 1991,STS-40,5448240,wikidata:P2873,5,0
+wikidata:Q1926804,Michael Baker,male,United States,https://en.wikipedia.org/wiki/Michael_A._Baker,Q1926804,255,2 August 1991,STS-43,3473940,wikidata:P2873,4,0
+wikidata:Q1323571,Kenneth Reightler,male,United States,https://en.wikipedia.org/wiki/Kenneth_S._Reightler_Jr.,Q1323571,256,12 September 1991,STS-48,1179360,wikidata:P2873,2,0
+wikidata:Q78552,Franz Viehböck,male,Austria,https://en.wikipedia.org/wiki/Franz_Viehb%C3%B6ck,Q78552,257,2 October 1991,Soyuz TM-13,684720,wikidata:P2873,1,0
+wikidata:Q468258,Toktar Aubakirov,male,Soviet Union,https://en.wikipedia.org/wiki/Toktar_Aubakirov,Q468258,257,2 October 1991,Soyuz TM-13,684720,wikidata:P2873,1,0
+wikidata:Q528832,James Voss,male,United States,https://en.wikipedia.org/wiki/James_S._Voss,Q528832,259,24 November 1991,STS-44,17472480,wikidata:P2873,6,0
+wikidata:Q1899032,Mario Runco,male,United States,https://en.wikipedia.org/wiki/Mario_Runco_Jr.,Q1899032,259,24 November 1991,STS-44,1984080,wikidata:P2873,3,0
+wikidata:Q1407313,Terence Henricks,male,United States,https://en.wikipedia.org/wiki/Terence_T._Henricks,Q1407313,259,24 November 1991,STS-44,3695880,wikidata:P2873,4,0
+wikidata:Q1373458,Thomas Hennen,male,United States,https://en.wikipedia.org/wiki/Thomas_J._Hennen_(astronaut),Q1373458,259,24 November 1991,STS-44,600600,wikidata:P2873,1,0
+wikidata:Q258385,Roberta Bondar,female,Canada,https://en.wikipedia.org/wiki/Roberta_Bondar,Q258385,263,22 January 1992,STS-42,697560,wikidata:P2873,1,0
+wikidata:Q1372276,Stephen Oswald,male,United States,https://en.wikipedia.org/wiki/Stephen_S._Oswald,Q1372276,263,22 January 1992,STS-42,2932200,wikidata:P2873,3,0
+wikidata:Q1429300,William Readdy,male,United States,https://en.wikipedia.org/wiki/William_F._Readdy,Q1429300,263,22 January 1992,STS-42,2421840,wikidata:P2873,3,0
+wikidata:Q345288,Aleksandr Kaleri,male,Russia,https://en.wikipedia.org/wiki/Aleksandr_Kaleri,Q345288,266,17 March 1992,Soyuz TM-14,66465420,wikidata:P2873,5,0
+wikidata:Q214974,Klaus-Dietrich Flade,male,Germany,https://en.wikipedia.org/wiki/Klaus-Dietrich_Flade,Q214974,266,17 March 1992,Soyuz TM-14,683820,wikidata:P2873,1,0
+wikidata:Q912120,Brian Duffy,male,United States,https://en.wikipedia.org/wiki/Brian_Duffy_(astronaut),Q912120,268,24 March 1992,STS-45,3519420,wikidata:P2873,4,0
+wikidata:Q52494,Dirk Frimout,male,Belgium,https://en.wikipedia.org/wiki/Dirk_Frimout,Q52494,268,24 March 1992,STS-45,770940,wikidata:P2873,1,0
+wikidata:Q540379,Michael Foale,male,United States,https://en.wikipedia.org/wiki/Michael_Foale,Q540379,268,24 March 1992,STS-45,32293080,wikidata:P2873,7,0
+wikidata:Q1376966,Kevin Chilton,male,United States,https://en.wikipedia.org/wiki/Kevin_P._Chilton,Q1376966,271,7 May 1992,STS-49,2535720,wikidata:P2873,3,0
+wikidata:Q562168,Eugene Trinh,male,United States,https://en.wikipedia.org/wiki/Eugene_H._Trinh,Q562168,272,25 June 1992,STS-50,1193400,wikidata:P2873,1,0
+wikidata:Q920936,Kenneth Bowersox,male,United States,https://en.wikipedia.org/wiki/Ken_Bowersox,Q920936,272,25 June 1992,STS-50,18281520,wikidata:P2873,5,0
+wikidata:Q1336455,Lawrence DeLucas,male,United States,https://en.wikipedia.org/wiki/Lawrence_J._DeLucas,Q1336455,272,25 June 1992,STS-50,1193400,wikidata:P2873,1,0
+wikidata:Q1339046,Michel Tognini,male,France,https://en.wikipedia.org/wiki/Michel_Tognini,Q1339046,275,27 July 1992,Soyuz TM-15,1619160,wikidata:P2873,2,0
+wikipedia-first-flight:275:sergei-avdeyev,Sergei Avdeyev,,Russia,https://en.wikipedia.org/wiki/Sergei_Avdeyev,,275,27 July 1992,Soyuz TM-15,16321275,computed_from_segments,1,0
+wikidata:Q506349,Andrew Allen,male,United States,https://en.wikipedia.org/wiki/Andrew_M._Allen,Q506349,277,31 July 1992,STS-46,3254400,wikidata:P2873,3,0
+wikidata:Q116962,Claude Nicollier,male,Switzerland,https://en.wikipedia.org/wiki/Claude_Nicollier,Q116962,277,31 July 1992,STS-46,3672300,wikidata:P2873,4,0
+wikidata:Q957368,Franco Malerba,male,Italy,https://en.wikipedia.org/wiki/Franco_Malerba,Q957368,277,31 July 1992,STS-46,688500,wikidata:P2873,1,0
+wikidata:Q386148,Curtis Brown,male,United States,https://en.wikipedia.org/wiki/Curtis_Brown,Q386148,280,12 September 1992,STS-47,4986420,wikidata:P2873,6,0
+wikidata:Q34091,Mae Jemison,female,United States,https://en.wikipedia.org/wiki/Mae_Jemison,Q34091,280,12 September 1992,STS-47,685823,wikidata:P2873,1,0
+wikidata:Q521395,Mamoru Mohri,male,Japan,https://en.wikipedia.org/wiki/Mamoru_Mohri,Q521395,280,12 September 1992,STS-47,1656540,wikidata:P2873,2,0
+wikidata:Q29527,Nancy Davis,female,United States,https://en.wikipedia.org/wiki/Jan_Davis,Q29527,280,12 September 1992,STS-47,2426820,wikidata:P2873,3,0
+wikidata:Q531065,Steven MacLean,male,Canada,https://en.wikipedia.org/wiki/Steve_MacLean_(astronaut),Q531065,284,22 October 1992,STS-52,1872120,wikidata:P2873,2,0
+wikidata:Q1371854,Michael Clifford,male,United States,https://en.wikipedia.org/wiki/Michael_R._Clifford,Q1371854,285,2 December 1992,STS-53,2399040,wikidata:P2873,3,0
+wikidata:Q41575,Susan Helms,female,United States,https://en.wikipedia.org/wiki/Susan_J._Helms,Q41575,286,13 January 1993,STS-54,18227160,wikidata:P2873,6,0
+wikidata:Q711010,Aleksandr Poleshchuk,male,Russia,https://en.wikipedia.org/wiki/Aleksandr_Poleshchuk,Q711010,287,24 January 1993,Soyuz TM-16,15468180,wikidata:P2873,1,0
+wikidata:Q49269,Ellen Ochoa,female,United States,https://en.wikipedia.org/wiki/Ellen_Ochoa,Q49269,288,8 April 1993,STS-56,3657600,wikidata:P2873,4,0
+wikidata:Q513131,Kenneth Cockrell,male,United States,https://en.wikipedia.org/wiki/Kenneth_Cockrell,Q513131,288,8 April 1993,STS-56,5574240,wikidata:P2873,5,0
+wikidata:Q822249,Bernard Harris,male,United States,https://en.wikipedia.org/wiki/Bernard_A._Harris_Jr.,Q822249,290,26 April 1993,STS-55,1577280,wikidata:P2873,2,0
+wikidata:Q1065133,Charles Precourt,male,United States,https://en.wikipedia.org/wiki/Charles_J._Precourt,Q1065133,290,26 April 1993,STS-55,3356160,wikidata:P2873,4,0
+wikidata:Q213605,Hans Schlegel,male,Germany,https://en.wikipedia.org/wiki/Hans_Schlegel,Q213605,290,26 April 1993,STS-55,1965720,wikidata:P2873,2,0
+wikidata:Q215142,Ulrich Walter,male,Germany,https://en.wikipedia.org/wiki/Ulrich_Walter,Q215142,290,26 April 1993,STS-55,862800,wikidata:P2873,1,0
+wikidata:Q52923,Janice Voss,female,United States,https://en.wikipedia.org/wiki/Janice_E._Voss,Q52923,294,21 June 1993,STS-57,4247340,wikidata:P2873,4,0
+wikipedia-first-flight:294:nancy-currie,Nancy Currie,,United States,https://en.wikipedia.org/wiki/Nancy_J._Currie,,294,21 June 1993,STS-57,863094,computed_from_segments,1,0
+wikidata:Q1333261,Peter Wisoff,male,United States,https://en.wikipedia.org/wiki/Peter_Wisoff,Q1333261,294,21 June 1993,STS-57,3830940,wikidata:P2873,4,0
+wikidata:Q721397,Jean-Pierre Haigneré,male,France,https://en.wikipedia.org/wiki/Jean-Pierre_Haigner%C3%A9,Q721397,297,1 July 1993,Soyuz TM-17,18102300,wikidata:P2873,2,0
+wikidata:Q728371,Vasily Tsibliyev,male,Russia,https://en.wikipedia.org/wiki/Vasily_Tsibliyev,Q728371,297,1 July 1993,Soyuz TM-17,32975520,wikidata:P2873,2,0
+wikidata:Q644705,Carl Walz,male,United States,https://en.wikipedia.org/wiki/Carl_E._Walz,Q644705,299,12 September 1993,STS-51,19919040,wikidata:P2873,5,0
+wikidata:Q948673,Daniel Bursch,male,United States,https://en.wikipedia.org/wiki/Daniel_W._Bursch,Q948673,299,12 September 1993,STS-51,19606560,wikidata:P2873,5,0
+wikidata:Q798166,James Newman,male,United States,https://en.wikipedia.org/wiki/James_H._Newman,Q798166,299,12 September 1993,STS-51,3751620,wikidata:P2873,4,0
+wikidata:Q461788,David Wolf,male,United States,https://en.wikipedia.org/wiki/David_Wolf_(astronaut),Q461788,302,18 October 1993,STS-58,14547420,wikidata:P2873,5,0
+wikidata:Q1904202,Martin Fettman,male,United States,https://en.wikipedia.org/wiki/Martin_J._Fettman,Q1904202,302,18 October 1993,STS-58,1210320,wikidata:P2873,1,0
+wikidata:Q1371840,Richard Searfoss,male,United States,https://en.wikipedia.org/wiki/Richard_A._Searfoss,Q1371840,302,18 October 1993,STS-58,3381480,wikidata:P2873,3,0
+wikidata:Q709921,William McArthur,male,United States,https://en.wikipedia.org/wiki/William_S._McArthur,Q709921,302,18 October 1993,STS-58,19433940,wikidata:P2873,4,0
+wikidata:Q376688,Yury Usachov,male,Russia,https://en.wikipedia.org/wiki/Yury_Usachov,Q376688,306,8 January 1994,Soyuz TM-18,47773500,wikidata:P2873,5,0
+wikidata:Q1334023,Ronald Sega,male,United States,https://en.wikipedia.org/wiki/Ronald_M._Sega,Q1334023,307,3 February 1994,STS-60,1513500,wikidata:P2873,2,0
+wikidata:Q1338348,Thomas Jones,male,United States,https://en.wikipedia.org/wiki/Thomas_David_Jones,Q1338348,308,9 April 1994,STS-59,4582140,wikidata:P2873,4,0
+wikidata:Q560360,Talgat Musabayev,male,Kazakhstan,https://en.wikipedia.org/wiki/Talgat_Musabayev,Q560360,309,1 July 1994,Soyuz TM-19,29497680,wikidata:P2873,3,0
+wikidata:Q342953,Yuri Malenchenko,male,Russia,https://en.wikipedia.org/wiki/Yuri_Malenchenko,Q342953,309,1 July 1994,Soyuz TM-19,71486599,wikidata:P2873,6,0
+wikidata:Q234306,Chiaki Mukai,female,Japan,https://en.wikipedia.org/wiki/Chiaki_Mukai,Q234306,311,8 July 1994,STS-65,2043540,wikidata:P2873,2,0
+wikidata:Q1239684,Donald Thomas,male,United States,https://en.wikipedia.org/wiki/Donald_A._Thomas,Q1239684,311,8 July 1994,STS-65,3744780,wikidata:P2873,3,0
+wikidata:Q611704,James Halsell,male,United States,https://en.wikipedia.org/wiki/James_D._Halsell,Q611704,311,8 July 1994,STS-65,4530840,wikidata:P2873,4,0
+wikidata:Q709935,Leroy Chiao,male,United States,https://en.wikipedia.org/wiki/Leroy_Chiao,Q709935,311,8 July 1994,STS-65,19813080,wikidata:P2873,4,0
+wikidata:Q1376469,Jerry Linenger,male,United States,https://en.wikipedia.org/wiki/Jerry_M._Linenger,Q1376469,315,9 September 1994,STS-64,12365400,wikidata:P2873,3,0
+wikidata:Q378949,Stephen Smith,male,United States,https://en.wikipedia.org/wiki/Steven_Smith_(astronaut),Q378949,316,30 September 1994,STS-68,3456960,wikidata:P2873,4,0
+wikidata:Q938428,Terrence Wilcutt,male,United States,https://en.wikipedia.org/wiki/Terrence_W._Wilcutt,Q938428,316,30 September 1994,STS-68,3629100,wikidata:P2873,4,0
+wikidata:Q255764,Yelena Kondakova,female,Russia,https://en.wikipedia.org/wiki/Yelena_Kondakova,Q255764,318,3 October 1994,Soyuz TM-20,15417660,wikidata:P2873,2,0
+wikidata:Q722679,Jean-François Clervoy,male,France,https://en.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Clervoy,Q722679,319,3 November 1994,STS-66,2430300,wikidata:P2873,3,0
+wikidata:Q260329,Joseph Tanner,male,United States,https://en.wikipedia.org/wiki/Joseph_R._Tanner,Q260329,319,3 November 1994,STS-66,3762900,wikidata:P2873,4,0
+wikidata:Q706739,Scott Parazynski,male,United States,https://en.wikipedia.org/wiki/Scott_E._Parazynski,Q706739,319,3 November 1994,STS-66,4980840,wikidata:P2873,5,0
+wikidata:Q229635,Eileen Collins,female,United States,https://en.wikipedia.org/wiki/Eileen_Collins,Q229635,322,3 February 1995,STS-63,3312600,wikidata:P2873,4,0
+wikidata:Q362209,John Grunsfeld,male,United States,https://en.wikipedia.org/wiki/John_M._Grunsfeld,Q362209,323,2 March 1995,STS-67,5065380,wikidata:P2873,5,0
+wikidata:Q49035,Wendy Lawrence,female,United States,https://en.wikipedia.org/wiki/Wendy_B._Lawrence,Q49035,323,2 March 1995,STS-67,4420560,wikidata:P2873,4,0
+wikidata:Q324774,William Gregory,male,United States,https://en.wikipedia.org/wiki/William_G._Gregory,Q324774,323,2 March 1995,STS-67,1436880,wikidata:P2873,1,0
+wikidata:Q535831,Vladimir Dezhurov,male,Russia,https://en.wikipedia.org/wiki/Vladimir_Dezhurov,Q535831,326,14 March 1995,Soyuz TM-21,21101280,wikidata:P2873,3,0
+wikidata:Q641389,Nikolai Budarin,male,Russia,https://en.wikipedia.org/wiki/Nikolai_Budarin,Q641389,327,27 June 1995,STS-71,38366761,wikidata:P2873,3,0
+wikidata:Q1322669,Kevin Kregel,male,United States,https://en.wikipedia.org/wiki/Kevin_R._Kregel,Q1322669,328,13 July 1995,STS-70,4558860,wikidata:P2873,4,0
+wikidata:Q268912,Mary Weber,female,United States,https://en.wikipedia.org/wiki/Mary_Ellen_Weber,Q268912,328,13 July 1995,STS-70,1621800,wikidata:P2873,2,0
+wikidata:Q166616,Thomas Reiter,male,Germany,https://en.wikipedia.org/wiki/Thomas_Reiter,Q166616,330,3 September 1995,Soyuz TM-22,30260640,wikidata:P2873,3,0
+wikidata:Q448491,Yuri Gidzenko,male,Russia,https://en.wikipedia.org/wiki/Yuri_Gidzenko,Q448491,330,3 September 1995,Soyuz TM-22,28507440,wikidata:P2873,3,0
+wikidata:Q704147,Michael Gernhardt,male,United States,https://en.wikipedia.org/wiki/Michael_L._Gernhardt,Q704147,332,7 September 1995,STS-69,3740460,wikidata:P2873,3,0
+wikidata:Q2036814,Albert Sacco,male,United States,https://en.wikipedia.org/wiki/Albert_Sacco,Q2036814,333,20 October 1995,STS-73,1373640,wikidata:P2873,1,0
+wikidata:Q7468,Catherine Coleman,female,United States,https://en.wikipedia.org/wiki/Catherine_Coleman,Q7468,333,20 October 1995,STS-73,15566400,wikidata:P2873,3,0
+wikidata:Q978562,Frederick Leslie,male,United States,https://en.wikipedia.org/wiki/Frederick_W._Leslie,Q978562,333,20 October 1995,STS-73,1373640,wikidata:P2873,1,0
+wikidata:Q1384788,Kent Rominger,male,United States,https://en.wikipedia.org/wiki/Kent_Rominger,Q1384788,333,20 October 1995,STS-73,5799480,wikidata:P2873,5,0
+wikidata:Q375202,Michael López-Alegría,male,United States,https://en.wikipedia.org/wiki/Michael_L%C3%B3pez-Alegr%C3%ADa,Q375202,333,20 October 1995,STS-73,25632720,wikidata:P2873,6,0
+wikidata:Q1076962,Chris Hadfield,male,Canada,https://en.wikipedia.org/wiki/Chris_Hadfield,Q1076962,338,12 November 1995,STS-74,14342400,wikidata:P2873,3,0
+wikidata:Q725339,Brent Jett,male,United States,https://en.wikipedia.org/wiki/Brent_W._Jett_Jr.,Q725339,339,11 January 1996,STS-72,3607260,wikidata:P2873,4,0
+wikidata:Q1162918,Daniel Barry,male,United States,https://en.wikipedia.org/wiki/Daniel_T._Barry,Q1162918,339,11 January 1996,STS-72,2644020,wikidata:P2873,3,0
+wikidata:Q375566,Koichi Wakata,male,Japan,https://en.wikipedia.org/wiki/Koichi_Wakata,Q375566,339,11 January 1996,STS-72,43612320,wikidata:P2873,6,0
+wikidata:Q573719,Winston Scott,male,United States,https://en.wikipedia.org/wiki/Winston_E._Scott,Q573719,339,11 January 1996,STS-72,2126100,wikidata:P2873,2,0
+wikidata:Q708489,Yury Onufriyenko,male,Russia,https://en.wikipedia.org/wiki/Yury_Onufriyenko,Q708489,343,21 February 1996,Soyuz TM-23,33662760,wikidata:P2873,3,0
+wikidata:Q956842,Maurizio Cheli,male,Italy,https://en.wikipedia.org/wiki/Maurizio_Cheli,Q956842,344,22 February 1996,STS-75,1359660,wikidata:P2873,1,0
+wikidata:Q703819,Scott Horowitz,male,United States,https://en.wikipedia.org/wiki/Scott_J._Horowitz,Q703819,344,22 February 1996,STS-75,4099260,wikidata:P2873,4,0
+wikidata:Q727572,Umberto Guidoni,male,Italy,https://en.wikipedia.org/wiki/Umberto_Guidoni,Q727572,344,22 February 1996,STS-75,2387520,wikidata:P2873,2,0
+wikidata:Q507894,Andrew Thomas,male,United States,https://en.wikipedia.org/wiki/Andy_Thomas,Q507894,347,19 May 1996,STS-77,15326040,wikidata:P2873,5,0
+wikidata:Q722667,Charles Brady,male,United States,https://en.wikipedia.org/wiki/Charles_E._Brady_Jr.,Q722667,348,20 June 1996,STS-78,1460880,wikidata:P2873,1,0
+wikidata:Q935071,Jean-Jacques Favier,male,France,https://en.wikipedia.org/wiki/Jean-Jacques_Favier,Q935071,348,20 June 1996,STS-78,1460880,wikidata:P2873,1,0
+wikidata:Q520618,Richard Linnehan,male,United States,https://en.wikipedia.org/wiki/Richard_M._Linnehan,Q520618,348,20 June 1996,STS-78,5172540,wikidata:P2873,4,0
+wikidata:Q461795,Robert Thirsk,male,Canada,https://en.wikipedia.org/wiki/Robert_Thirsk,Q461795,348,20 June 1996,STS-78,17692140,wikidata:P2873,2,0
+wikidata:Q235580,Claudie Haigneré,female,France,https://en.wikipedia.org/wiki/Claudie_Haigner%C3%A9,Q235580,352,17 August 1996,Soyuz TM-24,2211720,wikidata:P2873,2,0
+wikidata:Q709634,Valery Korzun,male,Russia,https://en.wikipedia.org/wiki/Valery_Korzun,Q709634,352,17 August 1996,Soyuz TM-24,32974860,wikidata:P2873,3,0
+wikidata:Q620632,Aleksandr Lazutkin,male,Russia,https://en.wikipedia.org/wiki/Aleksandr_Lazutkin,Q620632,354,10 February 1997,Soyuz TM-25,15977220,wikidata:P2873,1,0
+wikidata:Q215140,Reinhold Ewald,male,Germany,https://en.wikipedia.org/wiki/Reinhold_Ewald,Q215140,354,10 February 1997,Soyuz TM-25,1701240,wikidata:P2873,1,0
+wikidata:Q1355634,Gregory Linteris,male,United States,https://en.wikipedia.org/wiki/Gregory_T._Linteris,Q1355634,356,4 April 1997,STS-83,1699080,wikidata:P2873,1,0
+wikidata:Q749845,Roger Crouch,male,United States,https://en.wikipedia.org/wiki/Roger_K._Crouch,Q749845,356,4 April 1997,STS-83,1699080,wikidata:P2873,1,0
+wikidata:Q48998,Susan Kilrain,female,United States,https://en.wikipedia.org/wiki/Susan_Kilrain,Q48998,356,4 April 1997,STS-83,1699080,wikidata:P2873,1,0
+wikidata:Q938350,Carlos Noriega,male,United States,https://en.wikipedia.org/wiki/Carlos_I._Noriega,Q938350,359,15 May 1997,STS-84,1732680,wikidata:P2873,2,0
+wikidata:Q709931,Edward Lu,male,United States,https://en.wikipedia.org/wiki/Ed_Lu,Q709931,359,15 May 1997,STS-84,17795880,wikidata:P2873,3,0
+wikidata:Q466075,Pavel Vinogradov,male,Russia,https://en.wikipedia.org/wiki/Pavel_Vinogradov,Q466075,361,5 August 1997,Soyuz TM-26,47255625,wikidata:P2873,3,0
+wikidata:Q725233,Bjarni Tryggvason,male,Canada,https://en.wikipedia.org/wiki/Bjarni_Tryggvason,Q725233,362,7 August 1997,STS-85,1110480,wikidata:P2873,1,0
+wikidata:Q948775,Robert Curbeam,male,United States,https://en.wikipedia.org/wiki/Robert_Curbeam,Q948775,362,7 August 1997,STS-85,3249203,wikidata:P2873,3,0
+wikidata:Q557585,Stephen Robinson,male,United States,https://en.wikipedia.org/wiki/Stephen_Robinson,Q557585,362,7 August 1997,STS-85,2994240,wikidata:P2873,4,0
+wikidata:Q703865,Michael Bloomfield,male,United States,https://en.wikipedia.org/wiki/Michael_J._Bloomfield,Q703865,365,26 September 1997,STS-86,2804520,wikidata:P2873,3,0
+wikidata:Q237879,Kalpana Chawla,female,United States,https://en.wikipedia.org/wiki/Kalpana_Chawla,Q237879,366,19 November 1997,STS-87,2732040,wikidata:P2873,2,0
+wikipedia-first-flight:366:leonid-kadeniuk,Leonid Kadeniuk,,Ukraine,https://en.wikipedia.org/wiki/Leonid_Kadeniuk,,366,19 November 1997,STS-87,1355640,computed_from_segments,1,0
+wikidata:Q448470,Steven Lindsey,male,United States,https://en.wikipedia.org/wiki/Steven_Lindsey,Q448470,366,19 November 1997,STS-87,5437980,wikidata:P2873,5,0
+wikidata:Q461887,Takao Doi,male,Japan,https://en.wikipedia.org/wiki/Takao_Doi,Q461887,366,19 November 1997,STS-87,2748900,wikidata:P2873,2,0
+wikidata:Q739214,James Reilly,male,United States,https://en.wikipedia.org/wiki/James_F._Reilly,Q739214,370,23 January 1998,STS-89,3062040,wikidata:P2873,3,0
+wikidata:Q935510,Joe Edwards,male,United States,https://en.wikipedia.org/wiki/Joe_F._Edwards_Jr.,Q935510,370,23 January 1998,STS-89,762480,wikidata:P2873,1,0
+wikidata:Q318542,Michael Anderson,male,United States,https://en.wikipedia.org/wiki/Michael_P._Anderson,Q318542,370,23 January 1998,STS-89,2138880,wikidata:P2873,2,0
+wikidata:Q730220,Salizhan Sharipov,male,Russia,https://en.wikipedia.org/wiki/Salizhan_Sharipov,Q730220,370,23 January 1998,STS-89,17419800,wikidata:P2873,2,0
+wikidata:Q352069,Léopold Eyharts,male,France,https://en.wikipedia.org/wiki/L%C3%A9opold_Eyharts,Q352069,374,29 January 1998,Soyuz TM-27,5952660,wikidata:P2873,3,0
+wikidata:Q471380,Dafydd Williams,male,Canada,https://en.wikipedia.org/wiki/Dafydd_Williams,Q471380,375,17 April 1998,STS-90,2476020,wikidata:P2873,2,0
+wikidata:Q971200,James Pawelczyk,male,United States,https://en.wikipedia.org/wiki/James_A._Pawelczyk,Q971200,375,17 April 1998,STS-90,1374600,wikidata:P2873,1,0
+wikidata:Q1338895,Jay Buckey,male,United States,https://en.wikipedia.org/wiki/Jay_C._Buckey,Q1338895,375,17 April 1998,STS-90,1374600,wikidata:P2873,1,0
+wikidata:Q41606,Kathryn Hire,female,United States,https://en.wikipedia.org/wiki/Kathryn_P._Hire,Q41606,375,17 April 1998,STS-90,2563141,wikidata:P2873,2,0
+wikidata:Q382247,Scott Altman,male,United States,https://en.wikipedia.org/wiki/Scott_Altman,Q382247,375,17 April 1998,STS-90,4452420,wikidata:P2873,4,0
+wikidata:Q706939,Dominic Gorie,male,United States,https://en.wikipedia.org/wiki/Dominic_L._Pudwill_Gorie,Q706939,380,2 June 1998,STS-91,4233960,wikidata:P2873,4,0
+wikidata:Q265261,Janet Kavandi,female,United States,https://en.wikipedia.org/wiki/Janet_L._Kavandi,Q265261,380,2 June 1998,STS-91,2923680,wikidata:P2873,3,0
+wikidata:Q362998,Gennady Padalka,male,Russia,https://en.wikipedia.org/wiki/Gennady_Padalka,Q362998,382,13 August 1998,Soyuz TM-28,75900540,wikidata:P2873,5,0
+wikidata:Q520760,Yuri Baturin,male,Russia,https://en.wikipedia.org/wiki/Yuri_Baturin,Q520760,382,13 August 1998,Soyuz TM-28,1705440,wikidata:P2873,2,0
+wikidata:Q448547,Pedro Duque,male,Spain,https://en.wikipedia.org/wiki/Pedro_Duque,Q448547,384,29 October 1998,STS-95,1622760,wikidata:P2873,2,0
+wikidata:Q706978,Frederick Sturckow,male,United States,https://en.wikipedia.org/wiki/Frederick_W._Sturckow,Q706978,385,4 December 1998,STS-88,4440960,wikidata:P2873,8,0
+wikidata:Q448167,Ivan Bella,male,Slovakia,https://en.wikipedia.org/wiki/Ivan_Bella,Q448167,386,20 February 1999,Soyuz TM-29,683760,wikidata:P2873,1,0
+wikidata:Q240769,Julie Payette,female,Canada,https://en.wikipedia.org/wiki/Julie_Payette,Q240769,387,27 May 1999,STS-96,2203020,wikidata:P2873,2,0
+wikidata:Q346671,Rick Husband,male,United States,https://en.wikipedia.org/wiki/Rick_Husband,Q346671,387,27 May 1999,STS-96,2223180,wikidata:P2873,2,0
+wikidata:Q448872,Valeri Tokarev,male,Russia,https://en.wikipedia.org/wiki/Valeri_Tokarev,Q448872,387,27 May 1999,STS-96,17247900,wikidata:P2873,2,0
+wikidata:Q1345924,Jeffrey Ashby,male,United States,https://en.wikipedia.org/wiki/Jeffrey_Ashby,Q1345924,390,23 July 1999,STS-93,2391540,wikidata:P2873,3,0
+wikidata:Q362190,Scott Kelly,male,United States,https://en.wikipedia.org/wiki/Scott_Kelly_(astronaut),Q362190,391,20 December 1999,STS-103,44964000,wikidata:P2873,4,0
+wikidata:Q215009,Gerhard Thiele,male,Germany,https://en.wikipedia.org/wiki/Gerhard_Thiele,Q215009,392,11 February 2000,STS-99,970740,wikidata:P2873,1,0
+wikidata:Q203026,Sergei Zalyotin,male,Russia,https://en.wikipedia.org/wiki/Sergei_Zalyotin,Q203026,393,4 April 2000,Soyuz TM-30,7230960,wikidata:P2873,2,0
+wikidata:Q382202,Jeffrey Williams,male,United States,https://en.wikipedia.org/wiki/Jeffrey_Williams_(astronaut),Q382202,394,19 May 2000,STS-101,46147680,wikidata:P2873,4,0
+wikidata:Q281604,Boris Morukov,male,Russia,https://en.wikipedia.org/wiki/Boris_Morukov,Q281604,395,8 September 2000,STS-106,1019520,wikidata:P2873,1,0
+wikidata:Q382176,Daniel Burbank,male,United States,https://en.wikipedia.org/wiki/Daniel_C._Burbank,Q382176,395,8 September 2000,STS-106,16243200,wikidata:P2873,3,0
+wikidata:Q536777,Richard Mastracchio,male,United States,https://en.wikipedia.org/wiki/Richard_Mastracchio,Q536777,395,8 September 2000,STS-106,19661880,wikidata:P2873,4,0
+wikidata:Q239960,Pamela Melroy,female,United States,https://en.wikipedia.org/wiki/Pamela_Melroy,Q239960,398,11 October 2000,STS-92,3355440,wikidata:P2873,3,0
+wikidata:Q473221,Mark Polansky,male,United States,https://en.wikipedia.org/wiki/Mark_L._Polansky,Q473221,399,7 February 2001,STS-98,3581400,wikidata:P2873,3,0
+wikidata:Q24083,James Kelly,male,United States,https://en.wikipedia.org/wiki/James_M._Kelly_(astronaut),Q24083,400,8 March 2001,STS-102,2308860,wikidata:P2873,2,0
+wikidata:Q24094,Paul Richards,male,United States,https://en.wikipedia.org/wiki/Paul_W._Richards,Q24094,400,8 March 2001,STS-102,1108140,wikidata:P2873,1,0
+wikidata:Q448563,John Phillips,male,United States,https://en.wikipedia.org/wiki/John_L._Phillips,Q448563,402,19 April 2001,STS-100,17601720,wikidata:P2873,3,0
+wikidata:Q539358,Yury Lonchakov,male,Russia,https://en.wikipedia.org/wiki/Yury_Lonchakov,Q539358,402,19 April 2001,STS-100,17347140,wikidata:P2873,3,0
+wikidata:Q210184,Dennis Tito,male,United States,https://en.wikipedia.org/wiki/Dennis_Tito,Q210184,404,28 April 2001,Soyuz TM-32,684240,wikidata:P2873,1,0
+wikidata:Q29650,Charles Hobaugh,male,United States,https://en.wikipedia.org/wiki/Charles_O._Hobaugh,Q29650,405,12 July 2001,STS-104,3138420,wikidata:P2873,3,0
+wikidata:Q362180,Mikhail Tyurin,male,Russia,https://en.wikipedia.org/wiki/Mikhail_Tyurin,Q362180,406,10 August 2001,STS-105,45975094,wikidata:P2873,4,0
+wikidata:Q29648,Patrick Forrester,male,United States,https://en.wikipedia.org/wiki/Patrick_G._Forrester,Q29648,406,10 August 2001,STS-105,3421080,wikidata:P2873,3,0
+wikidata:Q535234,Konstantin Kozeyev,male,Russia,https://en.wikipedia.org/wiki/Konstantin_Kozeyev,Q535234,408,21 October 2001,Soyuz TM-33,849540,wikidata:P2873,1,0
+wikidata:Q375631,Daniel Tani,male,United States,https://en.wikipedia.org/wiki/Daniel_M._Tani,Q375631,409,5 December 2001,STS-108,11383500,wikidata:P2873,3,0
+wikidata:Q357510,Mark Kelly,male,United States,https://en.wikipedia.org/wiki/Mark_Kelly,Q357510,409,5 December 2001,STS-108,4673040,wikidata:P2873,4,0
+wikidata:Q32266,Duane Carey,male,United States,https://en.wikipedia.org/wiki/Duane_G._Carey,Q32266,411,1 March 2002,STS-109,943800,wikidata:P2873,1,0
+wikidata:Q32295,Michael Massimino,male,United States,https://en.wikipedia.org/wiki/Michael_J._Massimino,Q32295,411,1 March 2002,STS-109,2058480,wikidata:P2873,2,0
+wikidata:Q45137,Lee Morin,male,United States,https://en.wikipedia.org/wiki/Lee_Morin,Q45137,413,8 April 2002,STS-110,934920,wikidata:P2873,1,0
+wikidata:Q447304,Rex Walheim,male,United States,https://en.wikipedia.org/wiki/Rex_J._Walheim,Q447304,413,8 April 2002,STS-110,3141060,wikidata:P2873,3,0
+wikidata:Q32305,Stephen Frick,male,United States,https://en.wikipedia.org/wiki/Stephen_Frick,Q32305,413,8 April 2002,STS-110,2037840,wikidata:P2873,2,0
+wikidata:Q227030,Mark Shuttleworth,male,South Africa,https://en.wikipedia.org/wiki/Mark_Shuttleworth,Q227030,416,25 April 2002,Soyuz TM-34,854700,wikidata:P2873,1,0
+wikidata:Q448520,Roberto Vittori,male,Italy,https://en.wikipedia.org/wiki/Roberto_Vittori,Q448520,416,25 April 2002,Soyuz TM-34,3068760,wikidata:P2873,3,0
+wikidata:Q45139,Paul Lockhart,male,United States,https://en.wikipedia.org/wiki/Paul_Lockhart,Q45139,418,5 June 2002,STS-111,2388180,wikidata:P2873,2,0
+wikidata:Q235523,Peggy Whitson,female,United States,https://en.wikipedia.org/wiki/Peggy_Whitson,Q235523,418,5 June 2002,STS-111,58333680,wikidata:P2873,6,0
+wikidata:Q1266359,Philippe Perrin,male,France,https://en.wikipedia.org/wiki/Philippe_Perrin,Q1266359,418,5 June 2002,STS-111,1197300,wikidata:P2873,1,0
+wikidata:Q727902,Sergei Treshchov,male,Russia,https://en.wikipedia.org/wiki/Sergei_Treshchov,Q727902,418,5 June 2002,STS-111,15977736,wikidata:P2873,2,0
+wikidata:Q347977,Fyodor Yurchikhin,male,Russia,https://en.wikipedia.org/wiki/Fyodor_Yurchikhin,Q347977,422,7 October 2002,STS-112,58135080,wikidata:P2873,5,0
+wikidata:Q505439,Piers Sellers,male,United States,https://en.wikipedia.org/wiki/Piers_Sellers,Q505439,422,7 October 2002,STS-112,3056520,wikidata:P2873,3,0
+wikidata:Q49064,Sandra Magnus,female,United States,https://en.wikipedia.org/wiki/Sandra_Magnus,Q49064,422,7 October 2002,STS-112,13596120,wikidata:P2873,4,0
+wikidata:Q52495,Frank De Winne,male,Belgium,https://en.wikipedia.org/wiki/Frank_De_Winne,Q52495,425,30 October 2002,Soyuz TMA-1,17170440,wikidata:P2873,2,0
+wikidata:Q363250,Donald Pettit,male,United States,https://en.wikipedia.org/wiki/Donald_Pettit,Q363250,426,24 November 2002,STS-113,50981880,wikidata:P2873,4,0
+wikidata:Q45082,John Herrington,male,United States,https://en.wikipedia.org/wiki/John_Herrington,Q45082,426,24 November 2002,STS-113,1190820,wikidata:P2873,1,0
+wikidata:Q350317,David Brown,male,United States,https://en.wikipedia.org/wiki/David_M._Brown,Q350317,428,16 January 2003,STS-107,1376400,wikidata:P2873,1,0
+wikidata:Q219569,Ilan Ramon,male,Israel,https://en.wikipedia.org/wiki/Ilan_Ramon,Q219569,428,16 January 2003,STS-107,1376400,wikidata:P2873,1,0
+wikidata:Q232441,Laurel Clark,female,United States,https://en.wikipedia.org/wiki/Laurel_Clark,Q232441,428,16 January 2003,STS-107,1376400,wikidata:P2873,1,0
+wikidata:Q334463,William McCool,male,United States,https://en.wikipedia.org/wiki/William_C._McCool,Q334463,428,16 January 2003,STS-107,1376400,wikidata:P2873,1,0
+wikidata:Q147581,Yang Liwei,male,China,https://en.wikipedia.org/wiki/Yang_Liwei,Q147581,432,15 October 2003,Shenzhou 5,76920,wikidata:P2873,1,0
+wikidata:Q454649,André Kuipers,male,Netherlands,https://en.wikipedia.org/wiki/Andr%C3%A9_Kuipers,Q454649,433,19 April 2004,Soyuz TMA-4,16657080,wikidata:P2873,2,0
+wikidata:Q362261,Edward Fincke,male,United States,https://en.wikipedia.org/wiki/Michael_Fincke,Q362261,433,19 April 2004,Soyuz TMA-4,47376240,wikidata:P2873,4,0
+wikidata:Q918798,Michael Melvill,male,United States,https://en.wikipedia.org/wiki/Mike_Melvill,Q918798,435,21 June 2004,SpaceShipOne 15P,600,wikidata:P2873,1,0
+wikidata:Q911890,Brian Binnie,male,United States,https://en.wikipedia.org/wiki/Brian_Binnie,Q911890,436,4 October 2004,SpaceShipOne 17P,0,wikidata:P2873,1,0
+wikidata:Q730170,Yuri Shargin,male,Russia,https://en.wikipedia.org/wiki/Yuri_Shargin,Q730170,437,14 October 2004,Soyuz TMA-5,855000,wikidata:P2873,1,0
+wikidata:Q45080,Charles Camarda,male,United States,https://en.wikipedia.org/wiki/Charles_Camarda,Q45080,438,26 July 2005,STS-114,1200720,wikidata:P2873,1,0
+wikidata:Q357450,Soichi Noguchi,male,Japan,https://en.wikipedia.org/wiki/Soichi_Noguchi,Q357450,438,26 July 2005,STS-114,29755980,wikidata:P2873,3,0
+wikidata:Q438844,Gregory Olsen,male,United States,https://en.wikipedia.org/wiki/Gregory_Olsen,Q438844,440,1 October 2005,Soyuz TMA-7,854100,wikidata:P2873,1,0
+wikidata:Q344892,Fei Junlong,male,China,https://en.wikipedia.org/wiki/Fei_Junlong,Q344892,441,12 October 2005,Shenzhou 6,16512960,wikidata:P2873,2,0
+wikidata:Q472683,Nie Haisheng,male,China,https://en.wikipedia.org/wiki/Nie_Haisheng,Q472683,441,12 October 2005,Shenzhou 6,9641520,wikidata:P2873,3,0
+wikidata:Q317643,Marcos Pontes,male,Brazil,https://en.wikipedia.org/wiki/Marcos_Pontes,Q317643,443,30 March 2006,Soyuz TMA-8,854220,wikidata:P2873,1,0
+wikidata:Q49264,Lisa Nowak,female,United States,https://en.wikipedia.org/wiki/Lisa_Nowak,Q49264,444,4 July 2006,STS-121,1103760,wikidata:P2873,1,0
+wikidata:Q434232,Michael Fossum,male,United States,https://en.wikipedia.org/wiki/Michael_E._Fossum,Q434232,444,4 July 2006,STS-121,16743720,wikidata:P2873,3,0
+wikidata:Q55178,Stephanie Wilson,female,United States,https://en.wikipedia.org/wiki/Stephanie_Wilson,Q55178,444,4 July 2006,STS-121,3714360,wikidata:P2873,3,0
+wikidata:Q447057,Christopher Ferguson,male,United States,https://en.wikipedia.org/wiki/Christopher_Ferguson,Q447057,447,9 September 2006,STS-115,3492180,wikidata:P2873,3,0
+wikidata:Q51773,Heidemarie Stefanyshyn-Piper,female,United States,https://en.wikipedia.org/wiki/Heidemarie_Stefanyshyn-Piper,Q51773,447,9 September 2006,STS-115,2388972,wikidata:P2873,2,0
+wikidata:Q17519,Anousheh Ansari,female,United States,https://en.wikipedia.org/wiki/Anousheh_Ansari,Q17519,449,18 September 2006,Soyuz TMA-9,939900,wikidata:P2873,1,0
+wikidata:Q317382,Christer Fuglesang,male,Sweden,https://en.wikipedia.org/wiki/Christer_Fuglesang,Q317382,450,10 December 2006,STS-116,2309880,wikidata:P2873,2,0
+wikidata:Q41597,Joan Higginbotham,female,United States,https://en.wikipedia.org/wiki/Joan_Higginbotham,Q41597,450,10 December 2006,STS-116,1111500,wikidata:P2873,1,0
+wikidata:Q706899,Nicholas Patrick,male,United States,https://en.wikipedia.org/wiki/Nicholas_Patrick,Q706899,450,10 December 2006,STS-116,2299920,wikidata:P2873,2,0
+wikidata:Q55177,Sunita Williams,female,United States,https://en.wikipedia.org/wiki/Sunita_Williams,Q55177,450,10 December 2006,STS-116,52532340,wikidata:P2873,4,0
+wikidata:Q725848,William Oefelein,male,United States,https://en.wikipedia.org/wiki/William_Oefelein,Q725848,450,10 December 2006,STS-116,1111500,wikidata:P2873,1,0
+wikidata:Q49819,Charles Simonyi,male,United States,https://en.wikipedia.org/wiki/Charles_Simonyi,Q49819,455,7 April 2007,Soyuz TMA-10,2298420,wikidata:P2873,2,0
+wikidata:Q342338,Oleg Kotov,male,Russia,https://en.wikipedia.org/wiki/Oleg_Kotov,Q342338,455,7 April 2007,Soyuz TMA-10,45468120,wikidata:P2873,3,0
+wikidata:Q447264,Clayton Anderson,male,United States,https://en.wikipedia.org/wiki/Clayton_Anderson,Q447264,457,8 June 2007,STS-117,14418600,wikidata:P2873,3,0
+wikidata:Q471513,John Olivas,male,United States,https://en.wikipedia.org/wiki/John_D._Olivas,Q471513,457,8 June 2007,STS-117,2394300,wikidata:P2873,2,0
+wikidata:Q448243,Lee Archambault,male,United States,https://en.wikipedia.org/wiki/Lee_Archambault,Q448243,457,8 June 2007,STS-117,2302397,wikidata:P2873,2,0
+wikidata:Q537279,Steven Swanson,male,United States,https://en.wikipedia.org/wiki/Steven_Swanson,Q537279,457,8 June 2007,STS-117,16922820,wikidata:P2873,3,0
+wikidata:Q235047,Barbara Morgan,female,United States,https://en.wikipedia.org/wiki/Barbara_Morgan,Q235047,461,8 August 2007,STS-118,1101180,wikidata:P2873,1,0
+wikidata:Q643556,Benjamin Drew,male,United States,https://en.wikipedia.org/wiki/Alvin_Drew,Q643556,461,8 August 2007,STS-118,2206800,wikidata:P2873,2,0
+wikidata:Q21767,Tracy Caldwell Dyson,female,United States,https://en.wikipedia.org/wiki/Tracy_Caldwell_Dyson,Q21767,461,8 August 2007,STS-118,32207700,wikidata:P2873,3,0
+wikidata:Q313957,Sheikh Muszaphar Shukor,male,Malaysia,https://en.wikipedia.org/wiki/Sheikh_Muszaphar_Shukor,Q313957,464,10 October 2007,Soyuz TMA-11,940440,wikidata:P2873,1,0
+wikidata:Q461860,Douglas Wheelock,male,United States,https://en.wikipedia.org/wiki/Douglas_H._Wheelock,Q461860,465,23 October 2007,STS-120,15413640,wikidata:P2873,2,0
+wikidata:Q447334,George Zamka,male,United States,https://en.wikipedia.org/wiki/George_D._Zamka,Q447334,465,23 October 2007,STS-120,2493120,wikidata:P2873,2,0
+wikidata:Q17177,Paolo Nespoli,male,Italy,https://en.wikipedia.org/wiki/Paolo_A._Nespoli,Q17177,465,23 October 2007,STS-120,27052560,wikidata:P2873,3,0
+wikidata:Q362220,Alan Poindexter,male,United States,https://en.wikipedia.org/wiki/Alan_G._Poindexter,Q362220,468,7 February 2008,STS-122,2408940,wikidata:P2873,2,0
+wikidata:Q632907,Leland Melvin,male,United States,https://en.wikipedia.org/wiki/Leland_D._Melvin,Q632907,468,7 February 2008,STS-122,2035680,wikidata:P2873,2,0
+wikidata:Q706859,Stanley Love,male,United States,https://en.wikipedia.org/wiki/Stanley_G._Love,Q706859,468,7 February 2008,STS-122,1102920,wikidata:P2873,1,0
+wikidata:Q358931,Garrett Reisman,male,United States,https://en.wikipedia.org/wiki/Garrett_Reisman,Q358931,471,11 March 2008,STS-123,9256500,wikidata:P2873,3,0
+wikidata:Q520166,Gregory H. Johnson,male,United States,https://en.wikipedia.org/wiki/Gregory_H._Johnson,Q520166,471,11 March 2008,STS-123,2721000,wikidata:P2873,2,0
+wikidata:Q561878,Michael Foreman,male,United States,https://en.wikipedia.org/wiki/Michael_Foreman_(astronaut),Q561878,471,11 March 2008,STS-123,2294820,wikidata:P2873,2,0
+wikipedia-first-flight:471:robert-behnken,Robert Behnken,,United States,https://en.wikipedia.org/wiki/Robert_L._Behnken,,471,11 March 2008,STS-123,1361547,computed_from_segments,1,0
+wikidata:Q375659,Oleg Kononenko,male,Russia,https://en.wikipedia.org/wiki/Oleg_Kononenko,Q375659,475,8 April 2008,Soyuz TMA-12,95957760,wikidata:P2873,5,0
+wikidata:Q283544,Sergey Volkov,male,Russia,https://en.wikipedia.org/wiki/Sergey_Alexandrovich_Volkov,Q283544,475,8 April 2008,Soyuz TMA-12,47341260,wikidata:P2873,3,0
+wikidata:Q210382,Yi So-Yeon,female,South Korea,https://en.wikipedia.org/wiki/Yi_So-Yeon,Q210382,475,8 April 2008,Soyuz TMA-12,939600,wikidata:P2873,1,0
+wikidata:Q375641,Akihiko Hoshide,male,Japan,https://en.wikipedia.org/wiki/Akihiko_Hoshide,Q375641,478,31 May 2008,STS-124,29416200,wikidata:P2873,3,0
+wikidata:Q461872,Gregory Chamitoff,male,United States,https://en.wikipedia.org/wiki/Gregory_Chamitoff,Q461872,478,31 May 2008,STS-124,17172120,wikidata:P2873,3,0
+wikidata:Q240776,Karen Nyberg,female,United States,https://en.wikipedia.org/wiki/Karen_L._Nyberg,Q240776,478,31 May 2008,STS-124,15552000,wikidata:P2873,2,0
+wikidata:Q260217,Kenneth Ham,male,United States,https://en.wikipedia.org/wiki/Kenneth_Ham,Q260217,478,31 May 2008,STS-124,2205660,wikidata:P2873,2,0
+wikidata:Q441017,Ronald Garan,male,United States,https://en.wikipedia.org/wiki/Ronald_J._Garan_Jr.,Q441017,478,31 May 2008,STS-124,15378840,wikidata:P2873,2,0
+wikidata:Q461840,Jing Haipeng,male,China,https://en.wikipedia.org/wiki/Jing_Haipeng,Q461840,483,25 September 2008,Shenzhou 7,17427660,wikidata:P2873,4,0
+wikidata:Q557082,Liu Boming,male,China,https://en.wikipedia.org/wiki/Liu_Boming_(astronaut),Q557082,483,25 September 2008,Shenzhou 7,8209740,wikidata:P2873,2,0
+wikidata:Q197135,Zhai Zhigang,male,China,https://en.wikipedia.org/wiki/Zhai_Zhigang,Q197135,483,25 September 2008,Shenzhou 7,16005540,wikidata:P2873,2,0
+wikidata:Q319269,Richard Garriott,male,United States,https://en.wikipedia.org/wiki/Richard_Garriott,Q319269,486,12 October 2008,Soyuz TMA-13,1024500,wikidata:P2873,1,0
+wikidata:Q461821,Eric Boe,male,United States,https://en.wikipedia.org/wiki/Eric_Boe,Q461821,487,15 November 2008,STS-126,2475240,wikidata:P2873,2,0
+wikipedia-first-flight:487:robert-kimbrough,Robert Kimbrough,,United States,https://en.wikipedia.org/wiki/Robert_S._Kimbrough,,487,15 November 2008,STS-126,1369770,computed_from_segments,1,0
+wikidata:Q463086,Stephen Bowen,male,United States,https://en.wikipedia.org/wiki/Stephen_Bowen_(astronaut),Q463086,487,15 November 2008,STS-126,19557780,wikidata:P2873,4,0
+wikidata:Q440266,Dominic Antonelli,male,United States,https://en.wikipedia.org/wiki/Dominic_A._Antonelli,Q440266,490,15 March 2009,STS-119,2123880,wikidata:P2873,2,0
+wikidata:Q318934,Joseph Acaba,male,United States,https://en.wikipedia.org/wiki/Joseph_M._Acaba,Q318934,490,15 March 2009,STS-119,26438400,wikidata:P2873,3,0
+wikidata:Q462853,Richard Arnold,male,United States,https://en.wikipedia.org/wiki/Richard_R._Arnold,Q462853,490,15 March 2009,STS-119,18106140,wikidata:P2873,2,0
+wikidata:Q440251,Michael Barratt,male,United States,https://en.wikipedia.org/wiki/Michael_Barratt_(astronaut),Q440251,493,26 March 2009,Soyuz TMA-14,38589660,wikidata:P2873,3,0
+wikidata:Q505530,Andrew Feustel,male,United States,https://en.wikipedia.org/wiki/Andrew_J._Feustel,Q505530,494,11 May 2009,STS-125,19473300,wikidata:P2873,3,0
+wikidata:Q722106,Gregory C. Johnson,male,United States,https://en.wikipedia.org/wiki/Gregory_C._Johnson,Q722106,494,11 May 2009,STS-125,1114680,wikidata:P2873,1,0
+wikidata:Q240701,Megan McArthur,female,United States,https://en.wikipedia.org/wiki/K._Megan_McArthur,Q240701,494,11 May 2009,STS-125,18372060,wikidata:P2873,2,0
+wikidata:Q706965,Michael Good,male,United States,https://en.wikipedia.org/wiki/Michael_T._Good,Q706965,494,11 May 2009,STS-125,2138760,wikidata:P2873,2,0
+wikidata:Q457064,Roman Romanenko,male,Russia,https://en.wikipedia.org/wiki/Roman_Romanenko,Q457064,498,27 May 2009,Soyuz TMA-15,28810860,wikidata:P2873,2,0
+wikidata:Q52046,Christopher Cassidy,male,United States,https://en.wikipedia.org/wiki/Christopher_Cassidy,Q52046,499,15 July 2009,STS-127,32636940,wikidata:P2873,3,0
+wikidata:Q120793,Douglas Hurley,male,United States,https://en.wikipedia.org/wiki/Douglas_G._Hurley,Q120793,499,15 July 2009,STS-127,7987080,wikidata:P2873,3,0
+wikidata:Q520384,Thomas Marshburn,male,United States,https://en.wikipedia.org/wiki/Thomas_Marshburn,Q520384,499,15 July 2009,STS-127,29151720,wikidata:P2873,3,0
+wikidata:Q440303,Timothy Kopra,male,United States,https://en.wikipedia.org/wiki/Timothy_Kopra,Q440303,499,15 July 2009,STS-127,21085260,wikidata:P2873,3,0
+wikidata:Q716333,José M. Hernández,male,United States,https://en.wikipedia.org/wiki/Jos%C3%A9_M._Hern%C3%A1ndez,Q716333,503,29 August 2009,STS-128,1198440,wikidata:P2873,1,0
+wikidata:Q706849,Kevin Ford,male,United States,https://en.wikipedia.org/wiki/Kevin_A._Ford,Q706849,503,29 August 2009,STS-128,13612140,wikidata:P2873,2,0
+wikidata:Q235567,Nicole Stott,female,United States,https://en.wikipedia.org/wiki/Nicole_Stott,Q235567,503,29 August 2009,STS-128,8920140,wikidata:P2873,3,0
+wikidata:Q357468,Guy Laliberté,male,Canada,https://en.wikipedia.org/wiki/Guy_Lalibert%C3%A9,Q357468,506,30 September 2009,Soyuz TMA-16,940620,wikidata:P2873,1,0
+wikidata:Q461807,Maksim Surayev,male,Russia,https://en.wikipedia.org/wiki/Maksim_Surayev,Q461807,506,30 September 2009,Soyuz TMA-16,28901460,wikidata:P2873,2,0
+wikidata:Q554409,Barry Wilmore,male,United States,https://en.wikipedia.org/wiki/Barry_E._Wilmore,Q554409,508,12 November 2009,STS-129,40118520,wikidata:P2873,3,0
+wikidata:Q722127,Randolph Bresnik,male,United States,https://en.wikipedia.org/wiki/Randolph_Bresnik,Q722127,508,12 November 2009,STS-129,12917520,wikidata:P2873,2,0
+wikidata:Q63610,Robert Satcher,male,United States,https://en.wikipedia.org/wiki/Robert_Satcher,Q63610,508,12 November 2009,STS-129,933360,wikidata:P2873,1,0
+wikidata:Q461777,Timothy Creamer,male,United States,https://en.wikipedia.org/wiki/Timothy_Creamer,Q461777,511,20 December 2009,Soyuz TMA-17,14103180,wikidata:P2873,1,0
+wikidata:Q554415,Terry Virts,male,United States,https://en.wikipedia.org/wiki/Terry_W._Virts,Q554415,512,8 February 2010,STS-130,18442080,wikidata:P2873,2,0
+wikidata:Q555679,Aleksandr Skvortsov,male,Russia,https://en.wikipedia.org/wiki/Aleksandr_Aleksandrovich_Skvortsov,Q555679,513,2 April 2010,Soyuz TMA-18,29831100,wikidata:P2873,3,0
+wikipedia-first-flight:513:mikhail-korniyenko,Mikhail Korniyenko,,Russia,https://en.wikipedia.org/wiki/Mikhail_Korniyenko,,513,2 April 2010,Soyuz TMA-18,15211140,computed_from_segments,1,0
+wikidata:Q74015,Dorothy Metcalf-Lindenburger,female,United States,https://en.wikipedia.org/wiki/Dorothy_Metcalf-Lindenburger,Q74015,515,5 April 2010,STS-131,1306020,wikidata:P2873,1,0
+wikidata:Q74018,James Dutton,male,United States,https://en.wikipedia.org/wiki/James_Dutton_(astronaut),Q74018,515,5 April 2010,STS-131,1306020,wikidata:P2873,1,0
+wikidata:Q232692,Naoko Yamazaki,female,Japan,https://en.wikipedia.org/wiki/Naoko_Yamazaki,Q232692,515,5 April 2010,STS-131,1306020,wikidata:P2873,1,0
+wikidata:Q240708,Shannon Walker,female,United States,https://en.wikipedia.org/wiki/Shannon_Walker,Q240708,518,15 June 2010,Soyuz TMA-19,28561200,wikidata:P2873,2,0
+wikidata:Q927249,Oleg Skripochka,male,Russia,https://en.wikipedia.org/wiki/Oleg_Skripochka,Q927249,519,7 October 2010,Soyuz TMA-01M,46324140,wikidata:P2873,3,0
+wikidata:Q722142,Dmitri Kondratyev,male,Russia,https://en.wikipedia.org/wiki/Dmitri_Kondratyev,Q722142,520,15 December 2010,Soyuz TMA-20,13763820,wikidata:P2873,1,0
+wikipedia-first-flight:521:aleksandr-samokutyayev,Aleksandr Samokutyayev,,Russia,https://en.wikipedia.org/wiki/Aleksandr_Samokutyayev,,521,4 April 2011,Soyuz TMA-21,14190079,computed_from_segments,1,0
+wikidata:Q502101,Andrei Borisenko,male,Russia,https://en.wikipedia.org/wiki/Andrei_Borisenko,Q502101,521,4 April 2011,Soyuz TMA-21,29148960,wikidata:P2873,2,0
+wikidata:Q706916,Satoshi Furukawa,male,Japan,https://en.wikipedia.org/wiki/Satoshi_Furukawa,Q706916,523,7 June 2011,Soyuz TMA-02M,31653060,wikidata:P2873,2,0
+wikidata:Q487622,Anatoli Ivanishin,male,Russia,https://en.wikipedia.org/wiki/Anatoli_Ivanishin,Q487622,524,14 November 2011,Soyuz TMA-22,41143260,wikidata:P2873,3,0
+wikidata:Q592219,Anton Shkaplerov,male,Russia,https://en.wikipedia.org/wiki/Anton_Shkaplerov,Q592219,524,14 November 2011,Soyuz TMA-22,61286640,wikidata:P2873,4,0
+wikidata:Q975217,Sergei Revin,male,Russia,https://en.wikipedia.org/wiki/Sergei_Revin,Q975217,526,15 May 2012,Soyuz TMA-04M,10799520,wikidata:P2873,1,0
+wikidata:Q470059,Liu Wang,male,China,https://en.wikipedia.org/wiki/Liu_Wang,Q470059,527,16 June 2012,Shenzhou 9,1123200,wikidata:P2873,1,0
+wikidata:Q235266,Liu Yang,female,China,https://en.wikipedia.org/wiki/Liu_Yang_(astronaut),Q235266,527,16 June 2012,Shenzhou 9,1123200,wikidata:P2873,2,0
+wikipedia-first-flight:529:evgeny-tarelkin,Evgeny Tarelkin,,Russia,https://en.wikipedia.org/wiki/Evgeny_Tarelkin,,529,23 October 2012,Soyuz TMA-06M,12413989,computed_from_segments,1,0
+wikipedia-first-flight:529:oleg-novitskiy,Oleg Novitskiy,,Russia,https://en.wikipedia.org/wiki/Oleg_Novitskiy,,529,23 October 2012,Soyuz TMA-06M,12413989,computed_from_segments,1,0
+wikidata:Q2655329,Alexander Misurkin,male,Russia,https://en.wikipedia.org/wiki/Alexander_Misurkin,Q2655329,531,28 March 2013,Soyuz TMA-08M,29919840,wikidata:P2873,3,0
+wikidata:Q1394857,Luca Parmitano,male,Italy,https://en.wikipedia.org/wiki/Luca_Parmitano,Q1394857,532,28 May 2013,Soyuz TMA-09M,14342400,wikidata:P2873,2,0
+wikidata:Q705626,Wang Yaping,female,China,https://en.wikipedia.org/wiki/Wang_Yaping,Q705626,533,11 June 2013,Shenzhou 10,17020860,wikidata:P2873,2,0
+wikidata:Q8070347,Zhang Xiaoguang,male,China,https://en.wikipedia.org/wiki/Zhang_Xiaoguang,Q8070347,533,11 June 2013,Shenzhou 10,1261740,wikidata:P2873,1,0
+wikidata:Q3030934,Michael Hopkins,male,United States,https://en.wikipedia.org/wiki/Michael_S._Hopkins,Q3030934,535,25 September 2013,Soyuz TMA-10M,28817640,wikidata:P2873,2,0
+wikidata:Q3329196,Sergey Ryazansky,male,Russia,https://en.wikipedia.org/wiki/Sergey_Ryazansky,Q3329196,535,25 September 2013,Soyuz TMA-10M,26349660,wikidata:P2873,2,0
+wikidata:Q7086024,Oleg Artemyev,male,Russia,https://en.wikipedia.org/wiki/Oleg_Artemyev,Q7086024,537,25 March 2014,Soyuz TMA-12M,48448800,wikidata:P2873,3,0
+wikidata:Q71248,Alexander Gerst,male,Germany,https://en.wikipedia.org/wiki/Alexander_Gerst,Q71248,538,28 May 2014,Soyuz TMA-13M,31283400,wikidata:P2873,2,0
+wikidata:Q3116390,Reid Wiseman,male,United States,https://en.wikipedia.org/wiki/Reid_Wiseman,Q3116390,538,28 May 2014,Soyuz TMA-13M,14284860,wikidata:P2873,2,0
+wikidata:Q3492123,Yelena Serova,female,Russia,https://en.wikipedia.org/wiki/Yelena_Serova,Q3492123,540,25 September 2014,Soyuz TMA-14M,14449740,wikidata:P2873,1,0
+wikidata:Q379039,Samantha Cristoforetti,female,Italy,https://en.wikipedia.org/wiki/Samantha_Cristoforetti,Q379039,541,23 November 2014,Soyuz TMA-15M,17253720,wikidata:P2873,2,0
+wikidata:Q5975489,Kimiya Yui,male,Japan,https://en.wikipedia.org/wiki/Kimiya_Yui,Q5975489,542,22 July 2015,Soyuz TMA-17M,26643960,wikidata:P2873,2,0
+wikidata:Q3197699,Kjell N. Lindgren,male,United States,https://en.wikipedia.org/wiki/Kjell_N._Lindgren,Q3197699,542,22 July 2015,Soyuz TMA-17M,26975460,wikidata:P2873,2,0
+wikidata:Q4831087,Aidyn Aimbetov,male,Kazakhstan,https://en.wikipedia.org/wiki/Aidyn_Aimbetov,Q4831087,544,2 September 2015,Soyuz TMA-18M,850440,wikidata:P2873,1,0
+wikidata:Q499636,Andreas Mogensen,male,Denmark,https://en.wikipedia.org/wiki/Andreas_Mogensen,Q499636,544,2 September 2015,Soyuz TMA-18M,18052380,wikidata:P2873,2,0
+wikidata:Q518012,Tim Peake,male,United Kingdom,https://en.wikipedia.org/wiki/Tim_Peake,Q518012,546,15 December 2015,Soyuz TMA-19M,16063860,wikidata:P2873,1,0
+wikidata:Q4715991,Aleksey Ovchinin,male,Russia,https://en.wikipedia.org/wiki/Aleksey_Ovchinin,Q4715991,547,18 March 2016,Soyuz TMA-20M,51424020,wikidata:P2873,3,0
+wikidata:Q3194085,Kathleen Rubins,female,United States,https://en.wikipedia.org/wiki/Kathleen_Rubins,Q3194085,548,7 July 2016,Soyuz MS-01,25925460,wikidata:P2873,2,0
+wikidata:Q5975593,Takuya Onishi,male,Japan,https://en.wikipedia.org/wiki/Takuya_Onishi,Q5975593,548,7 July 2016,Soyuz MS-01,22704600,wikidata:P2873,2,0
+wikidata:Q27336250,Chen Dong,male,China,https://en.wikipedia.org/wiki/Chen_Dong_(astronaut),Q27336250,550,17 October 2016,Shenzhou 11,2788140,wikidata:P2873,3,0
+wikidata:Q7454059,Sergey Nikolayevich Ryzhikov,male,Russia,https://en.wikipedia.org/wiki/Sergey_Nikolayevich_Ryzhikov,Q7454059,551,19 October 2016,Soyuz MS-02,52105260,wikidata:P2873,3,0
+wikidata:Q512266,Thomas Pesquet,male,France,https://en.wikipedia.org/wiki/Thomas_Pesquet,Q512266,552,17 November 2016,Soyuz MS-03,34256040,wikidata:P2873,2,0
+wikidata:Q3157177,Jack Fischer,male,United States,https://en.wikipedia.org/wiki/Jack_Fischer,Q3157177,553,20 April 2017,Soyuz MS-04,11729280,wikidata:P2873,1,0
+wikidata:Q3294252,Mark Vande Hei,male,United States,https://en.wikipedia.org/wiki/Mark_Vande_Hei,Q3294252,554,12 September 2017,Soyuz MS-06,45219540,wikidata:P2873,2,0
+wikidata:Q5970982,Norishige Kanai,male,Japan,https://en.wikipedia.org/wiki/Norishige_Kanai,Q5970982,555,17 December 2017,Soyuz MS-07,14534280,wikidata:P2873,1,0
+wikidata:Q3476196,Scott D. Tingle,male,United States,https://en.wikipedia.org/wiki/Scott_D._Tingle,Q3476196,555,17 December 2017,Soyuz MS-07,14534280,wikidata:P2873,1,0
+wikidata:Q3479150,Serena Auñón-Chancellor,female,United States,https://en.wikipedia.org/wiki/Serena_M._Au%C3%B1%C3%B3n-Chancellor,Q3479150,557,6 June 2018,Soyuz MS-09,16998540,wikidata:P2873,1,0
+wikidata:Q21154027,Sergey Prokopyev,male,Russia,https://en.wikipedia.org/wiki/Sergey_Prokopyev_(cosmonaut),Q21154027,557,6 June 2018,Soyuz MS-09,49043520,wikidata:P2873,2,0
+wikidata:Q13500570,Anne McClain,female,United States,https://en.wikipedia.org/wiki/Anne_McClain,Q13500570,559,3 December 2018,Soyuz MS-11,30354900,wikidata:P2873,2,0
+wikidata:Q448320,David Saint-Jacques,male,Canada,https://en.wikipedia.org/wiki/David_Saint-Jacques,Q448320,559,3 December 2018,Soyuz MS-11,17594160,wikidata:P2873,1,0
+wikidata:Q13500192,Christina Koch,female,United States,https://en.wikipedia.org/wiki/Christina_Koch,Q13500192,561,14 March 2019,Soyuz MS-12,28389480,wikidata:P2873,2,0
+wikidata:Q13492872,Nick Hague,male,United States,https://en.wikipedia.org/wiki/Nick_Hague,Q13492872,561,14 March 2019,Soyuz MS-12,32300580,wikidata:P2873,2,0
+wikidata:Q13500735,Andrew R. Morgan,male,United States,https://en.wikipedia.org/wiki/Andrew_R._Morgan,Q13500735,563,20 July 2019,Soyuz MS-13,23460480,wikidata:P2873,1,0
+wikidata:Q56725368,Hazza Al Mansouri,male,United Arab Emirates,https://en.wikipedia.org/wiki/Hazza_Al_Mansouri,Q56725368,564,25 September 2019,Soyuz MS-15,691200,wikidata:P2873,1,0
+wikidata:Q4795114,Jessica Meir,female,United States,https://en.wikipedia.org/wiki/Jessica_Meir,Q4795114,564,25 September 2019,Soyuz MS-15,26069495,computed_from_segments_snapshot,2,1
+wikidata:Q21856852,Ivan Vagner,male,Russia,https://en.wikipedia.org/wiki/Ivan_Vagner,Q21856852,566,9 April 2020,Soyuz MS-16,35955960,wikidata:P2873,2,0
+wikidata:Q26776784,Sergey Kud-Sverchkov,male,Russia,https://en.wikipedia.org/wiki/Sergey_Kud-Sverchkov,Q26776784,567,14 October 2020,Soyuz MS-17,31111869,computed_from_segments_snapshot,2,1
+wikidata:Q13499227,Victor Glover,male,United States,https://en.wikipedia.org/wiki/Victor_Glover,Q13499227,568,15 November 2020,SpaceX Crew-1,14452140,wikidata:P2873,2,0
+wikidata:Q85859878,Pyotr Dubrov,male,Russia,https://en.wikipedia.org/wiki/Pyotr_Dubrov,Q85859878,569,9 April 2021,Soyuz MS-18,30685500,wikidata:P2873,1,0
+wikidata:Q107258209,Tang Hongbo,male,China,https://en.wikipedia.org/wiki/Tang_Hongbo,Q107258209,570,17 June 2021,Shenzhou 12,7963860,wikidata:P2873,2,0
+wikidata:Q312556,Jeff Bezos,male,United States,https://en.wikipedia.org/wiki/Jeff_Bezos,Q312556,571,20 July 2021,Blue Origin NS-16,600,computed_from_segments,1,0
+wikidata:Q23784752,Mark Bezos,male,United States,https://en.wikipedia.org/wiki/Mark_Bezos,Q23784752,571,20 July 2021,Blue Origin NS-16,600,computed_from_segments,1,0
+wikidata:Q107541364,Oliver Daemen,male,Netherlands,https://en.wikipedia.org/wiki/Oliver_Daemen,Q107541364,571,20 July 2021,Blue Origin NS-16,600,computed_from_segments,1,0
+wikidata:Q16213049,Wally Funk,female,United States,https://en.wikipedia.org/wiki/Wally_Funk,Q16213049,571,20 July 2021,Blue Origin NS-16,600,computed_from_segments,1,0
+wikidata:Q106286882,Christopher Sembroski,male,United States,https://en.wikipedia.org/wiki/Christopher_Sembroski,Q106286882,575,15 September 2021,Inspiration4,255780,wikidata:P2873,1,0
+wikidata:Q105627106,Hayley Arceneaux,female,United States,https://en.wikipedia.org/wiki/Hayley_Arceneaux,Q105627106,575,15 September 2021,Inspiration4,255780,wikidata:P2873,1,0
+wikidata:Q6160001,Jared Isaacman,male,United States,https://en.wikipedia.org/wiki/Jared_Isaacman,Q6160001,575,15 September 2021,Inspiration4,255780,wikidata:P2873,2,0
+wikidata:Q30323480,Sian Proctor,female,United States,https://en.wikipedia.org/wiki/Sian_Proctor,Q30323480,575,15 September 2021,Inspiration4,255780,wikidata:P2873,1,0
+wikidata:Q27990623,Klim Shipenko,male,Russia,https://en.wikipedia.org/wiki/Klim_Shipenko,Q27990623,579,5 October 2021,Soyuz MS-19,1008780,wikidata:P2873,1,0
+wikidata:Q4350906,Yulia Peresild,female,Russia,https://en.wikipedia.org/wiki/Yulia_Peresild,Q4350906,579,5 October 2021,Soyuz MS-19,1008780,wikidata:P2873,1,0
+wikidata:Q108800154,Audrey Powers,female,United States,https://en.wikipedia.org/wiki/Audrey_Powers,Q108800154,581,13 October 2021,Blue Origin NS-18,600,computed_from_segments,1,0
+wikidata:Q135116139,Chris Boshuizen,male,Australia,https://en.wikipedia.org/wiki/Chris_Boshuizen,Q135116139,581,13 October 2021,Blue Origin NS-18,600,computed_from_segments,1,0
+wikidata:Q108710624,Glen de Vries,male,United States,https://en.wikipedia.org/wiki/Glen_de_Vries,Q108710624,581,13 October 2021,Blue Origin NS-18,600,computed_from_segments,1,0
+wikidata:Q16297,William Shatner,male,Canada,https://en.wikipedia.org/wiki/William_Shatner,Q16297,581,13 October 2021,Blue Origin NS-18,600,computed_from_segments,1,0
+wikidata:Q28413601,Ye Guangfu,male,China,https://en.wikipedia.org/wiki/Ye_Guangfu,Q28413601,585,15 October 2021,Shenzhou 13,15759120,wikidata:P2873,2,0
+wikidata:Q30157819,Kayla Barron,female,United States,https://en.wikipedia.org/wiki/Kayla_Barron,Q30157819,586,11 November 2021,SpaceX Crew-3,15215940,wikidata:P2873,1,0
+wikidata:Q28540326,Matthias Maurer,male,Germany,https://en.wikipedia.org/wiki/Matthias_Maurer,Q28540326,586,11 November 2021,SpaceX Crew-3,15215940,wikidata:P2873,1,0
+wikidata:Q30157792,Raja Chari,male,United States,https://en.wikipedia.org/wiki/Raja_Chari,Q30157792,586,11 November 2021,SpaceX Crew-3,15215940,wikidata:P2873,1,0
+wikidata:Q106823104,Yozo Hirano,male,Japan,https://en.wikipedia.org/wiki/Yozo_Hirano,Q106823104,589,8 December 2021,Soyuz MS-20,1020840,wikidata:P2873,1,0
+wikidata:Q8061829,Yusaku Maezawa,male,Japan,https://en.wikipedia.org/wiki/Yusaku_Maezawa,Q8061829,589,8 December 2021,Soyuz MS-20,1020840,wikidata:P2873,1,0
+wikipedia-first-flight:591:cameron-bess,Cameron Bess,,United States,https://en.wikipedia.org/wiki/Cameron_Bess,,591,11 December 2021,Blue Origin NS-19,613,computed_from_segments,1,0
+wikidata:Q16213285,Dylan Taylor,male,United States,https://en.wikipedia.org/wiki/Dylan_Taylor_(executive),Q16213285,591,11 December 2021,Blue Origin NS-19,613,computed_from_segments,1,0
+wikipedia-first-flight:591:evan-dick,Evan Dick,,United States,https://en.wikipedia.org/wiki/Evan_Dick,,591,11 December 2021,Blue Origin NS-19,613,computed_from_segments,1,0
+wikidata:Q109860538,Lane Bess,male,United States,https://en.wikipedia.org/wiki/Lane_Bess,Q109860538,591,11 December 2021,Blue Origin NS-19,613,computed_from_segments,1,0
+wikipedia-first-flight:591:laura-shepard-churchley,Laura Shepard Churchley,,United States,https://en.wikipedia.org/wiki/Laura_Shepard_Churchley,,591,11 December 2021,Blue Origin NS-19,613,computed_from_segments,1,0
+wikidata:Q573258,Michael Strahan,male,United States,https://en.wikipedia.org/wiki/Michael_Strahan,Q573258,591,11 December 2021,Blue Origin NS-19,613,computed_from_segments,1,0
+wikidata:Q21106378,Denis Matveev,male,Russia,https://en.wikipedia.org/wiki/Denis_Matveev,Q21106378,597,18 March 2022,Soyuz MS-21,16830060,wikidata:P2873,1,0
+wikidata:Q85861593,Sergey Korsakov,male,Russia,https://en.wikipedia.org/wiki/Sergey_Korsakov_(cosmonaut),Q85861593,597,18 March 2022,Soyuz MS-21,16830060,wikidata:P2873,1,0
+wikidata:Q116746648,Gary Lai,male,United States,https://en.wikipedia.org/wiki/Gary_Lai,Q116746648,599,31 March 2022,Blue Origin NS-20,604,computed_from_segments,1,0
+wikipedia-first-flight:599:george-nield,George Nield,,United States,https://en.wikipedia.org/wiki/George_Nield,,599,31 March 2022,Blue Origin NS-20,604,computed_from_segments,1,0
+wikidata:Q115813900,Jim Kitchen,male,United States,https://en.wikipedia.org/wiki/Jim_Kitchen,Q115813900,599,31 March 2022,Blue Origin NS-20,604,computed_from_segments,1,0
+wikipedia-first-flight:599:marc-hagle,Marc Hagle,,United States,https://en.wikipedia.org/wiki/Marc_Hagle,,599,31 March 2022,Blue Origin NS-20,604,computed_from_segments,1,0
+wikipedia-first-flight:599:marty-allen,Marty Allen,,United States,https://en.wikipedia.org/wiki/Marty_Allen_(executive),,599,31 March 2022,Blue Origin NS-20,604,computed_from_segments,1,0
+wikipedia-first-flight:599:sharon-hagle,Sharon Hagle,,United States,https://en.wikipedia.org/wiki/Sharon_Hagle,,599,31 March 2022,Blue Origin NS-20,604,computed_from_segments,1,0
+wikidata:Q101960859,Eytan Stibbe,male,Israel,https://en.wikipedia.org/wiki/Eytan_Stibbe,Q101960859,605,8 April 2022,Axiom Mission 1,1474260,wikidata:P2873,1,0
+wikidata:Q24176135,Larry Connor,male,United States,https://en.wikipedia.org/wiki/Larry_Connor,Q24176135,605,8 April 2022,Axiom Mission 1,1474260,wikidata:P2873,1,0
+wikidata:Q105080575,Mark Pathy,male,Canada,https://en.wikipedia.org/wiki/Mark_Pathy,Q105080575,605,8 April 2022,Axiom Mission 1,1474260,wikidata:P2873,1,0
+wikidata:Q30202712,Jessica Watkins,female,United States,https://en.wikipedia.org/wiki/Jessica_Watkins,Q30202712,608,27 April 2022,SpaceX Crew-4,14734920,wikidata:P2873,2,0
+wikidata:Q30611798,Robert Hines,male,United States,https://en.wikipedia.org/wiki/Robert_Hines_(astronaut),Q30611798,608,27 April 2022,SpaceX Crew-4,14734920,wikidata:P2873,1,0
+wikidata:Q111845109,Hamish Harding,male,United Kingdom,https://en.wikipedia.org/wiki/Hamish_Harding,Q111845109,610,4 June 2022,Blue Origin NS-21,605,computed_from_segments,1,0
+wikidata:Q104076823,Jaison Robinson,male,United States,https://en.wikipedia.org/wiki/Jaison_Robinson,Q104076823,610,4 June 2022,Blue Origin NS-21,605,computed_from_segments,1,0
+wikidata:Q111928109,Katya Echazarreta,female,United States,https://en.wikipedia.org/wiki/Katya_Echazarreta,Q111928109,610,4 June 2022,Blue Origin NS-21,605,computed_from_segments,1,0
+wikipedia-first-flight:610:victor-hespanha,Victor Hespanha,,Brazil,,,610,4 June 2022,Blue Origin NS-21,605,computed_from_segments,1,0
+wikidata:Q60050774,Victor Vescovo,male,United States,https://en.wikipedia.org/wiki/Victor_Vescovo,Q60050774,610,4 June 2022,Blue Origin NS-21,605,computed_from_segments,1,0
+wikidata:Q112206264,Cai Xuzhe,male,China,https://en.wikipedia.org/wiki/Cai_Xuzhe,Q112206264,615,5 June 2022,Shenzhou 14,31514728,computed_from_segments,2,0
+wikipedia-first-flight:616:clint-kelly,Clint Kelly,,United States,,,616,4 August 2022,Blue Origin NS-22,620,computed_from_segments,1,0
+wikipedia-first-flight:616:coby-cotton,Coby Cotton,,United States,https://en.wikipedia.org/wiki/Coby_Cotton,,616,4 August 2022,Blue Origin NS-22,620,computed_from_segments,1,0
+wikidata:Q3331969,Mário Ferreira,male,Portugal,https://en.wikipedia.org/wiki/M%C3%A1rio_Ferreira,Q3331969,616,4 August 2022,Blue Origin NS-22,620,computed_from_segments,1,0
+wikidata:Q118364894,Sara Sabry,female,Egypt,https://en.wikipedia.org/wiki/Sara_Sabry,Q118364894,616,4 August 2022,Blue Origin NS-22,620,computed_from_segments,1,0
+wikipedia-first-flight:616:steve-young,Steve Young,,United States,https://en.wikipedia.org/wiki/Steve_Young_(telecommunications_executive),,616,4 August 2022,Blue Origin NS-22,620,computed_from_segments,1,0
+wikidata:Q13519806,Vanessa O'Brien,female,United Kingdom,https://en.wikipedia.org/wiki/Vanessa_O%27Brien,Q13519806,616,4 August 2022,Blue Origin NS-22,620,computed_from_segments,1,0
+wikidata:Q50379760,Dmitry Petelin,male,Russia,https://en.wikipedia.org/wiki/Dmitry_Petelin,Q50379760,622,21 September 2022,Soyuz MS-22,32044920,wikidata:P2873,1,0
+wikidata:Q30315159,Francisco Rubio,male,United States,https://en.wikipedia.org/wiki/Francisco_Rubio_(astronaut),Q30315159,622,21 September 2022,Soyuz MS-22,32044920,wikidata:P2873,1,0
+wikidata:Q18352451,Anna Kikina,female,Russia,https://en.wikipedia.org/wiki/Anna_Kikina,Q18352451,624,5 October 2022,SpaceX Crew-5,13600860,wikidata:P2873,1,0
+wikidata:Q13484630,Josh A. Cassada,male,United States,https://en.wikipedia.org/wiki/Josh_A._Cassada,Q13484630,624,5 October 2022,SpaceX Crew-5,13600860,wikidata:P2873,1,0
+wikidata:Q13500573,Nicole Aunapu Mann,female,United States,https://en.wikipedia.org/wiki/Nicole_Aunapu_Mann,Q13500573,624,5 October 2022,SpaceX Crew-5,13600860,wikidata:P2873,1,0
+wikidata:Q5256924,Deng Qingming,male,China,https://en.wikipedia.org/wiki/Deng_Qingming,Q5256924,627,29 November 2022,Shenzhou 15,16097040,wikidata:P2873,1,0
+wikidata:Q114690441,Zhang Lu,male,China,https://en.wikipedia.org/wiki/Zhang_Lu_(taikonaut),Q114690441,627,29 November 2022,Shenzhou 15,16097040,wikidata:P2873,2,0
+wikidata:Q85867505,Andrey Fedyaev,male,Russia,https://en.wikipedia.org/wiki/Andrey_Fedyaev,Q85867505,629,2 March 2023,SpaceX Crew-6,24454576,computed_from_segments_snapshot,2,1
+wikidata:Q56486505,Sultan Al Neyadi,male,United Arab Emirates,https://en.wikipedia.org/wiki/Sultan_Al_Neyadi,Q56486505,629,2 March 2023,SpaceX Crew-6,16065720,wikidata:P2873,1,0
+wikidata:Q30157794,Warren Hoburg,male,United States,https://en.wikipedia.org/wiki/Warren_Hoburg,Q30157794,629,2 March 2023,SpaceX Crew-6,16065720,wikidata:P2873,1,0
+wikidata:Q116765522,Ali AlQarni,male,Saudi Arabia,https://en.wikipedia.org/wiki/Ali_AlQarni,Q116765522,632,21 May 2023,Axiom Mission 2,797160,wikidata:P2873,1,0
+wikidata:Q105201181,John Shoffner,male,United States,https://en.wikipedia.org/wiki/John_Shoffner,Q105201181,632,21 May 2023,Axiom Mission 2,797160,wikidata:P2873,1,0
+wikidata:Q116765320,Rayyanah Barnawi,female,Saudi Arabia,https://en.wikipedia.org/wiki/Rayyanah_Barnawi,Q116765320,632,21 May 2023,Axiom Mission 2,797160,wikidata:P2873,1,0
+wikidata:Q118799016,Gui Haichao,male,China,https://en.wikipedia.org/wiki/Gui_Haichao,Q118799016,635,30 May 2023,Shenzhou 16,13300800,wikidata:P2873,1,0
+wikidata:Q118799052,Zhu Yangzhu,male,China,https://en.wikipedia.org/wiki/Zhu_Yangzhu,Q118799052,635,30 May 2023,Shenzhou 16,13300800,wikidata:P2873,1,0
+wikidata:Q30157740,Jasmin Moghbeli,female,United States,https://en.wikipedia.org/wiki/Jasmin_Moghbeli,Q30157740,637,26 August 2023,SpaceX Crew-7,17201940,wikidata:P2873,1,0
+wikidata:Q109493060,Konstantin Borisov,male,Russia,https://en.wikipedia.org/wiki/Konstantin_Borisov,Q109493060,637,26 August 2023,SpaceX Crew-7,17201940,wikidata:P2873,1,0
+wikidata:Q30157742,Loral O'Hara,female,United States,https://en.wikipedia.org/wiki/Loral_O%27Hara,Q30157742,639,15 September 2023,Soyuz MS-24,17595120,wikidata:P2873,1,0
+wikidata:Q50379072,Nikolai Chub,male,Russia,https://en.wikipedia.org/wiki/Nikolai_Chub,Q50379072,639,15 September 2023,Soyuz MS-24,32299980,wikidata:P2873,1,0
+wikidata:Q123186517,Jiang Xinlin,male,China,https://en.wikipedia.org/wiki/Jiang_Xinlin,Q123186517,641,26 October 2023,Shenzhou 17,16180325,computed_from_segments,1,0
+wikidata:Q123186464,Tang Shengjie,male,China,https://en.wikipedia.org/wiki/Tang_Shengjie,Q123186464,641,26 October 2023,Shenzhou 17,16180325,computed_from_segments,1,0
+wikidata:Q118093594,Alper Gezeravcı,male,Turkey,https://en.wikipedia.org/wiki/Alper_Gezeravc%C4%B1,Q118093594,643,18 January 2024,Axiom Mission 3,1870800,wikidata:P2873,1,0
+wikidata:Q115388065,Marcus Wandt,male,Sweden,https://en.wikipedia.org/wiki/Marcus_Wandt,Q115388065,643,18 January 2024,Axiom Mission 3,1870800,wikidata:P2873,1,0
+wikidata:Q108392200,Walter Villadei,male,Italy,https://en.wikipedia.org/wiki/Walter_Villadei,Q108392200,643,18 January 2024,Axiom Mission 3,1870800,wikidata:P2873,2,0
+wikidata:Q109490394,Alexander Grebenkin,male,Russia,https://en.wikipedia.org/wiki/Alexander_Grebenkin,Q109490394,646,4 March 2024,SpaceX Crew-8,20316900,wikidata:P2873,1,0
+wikidata:Q3175883,Jeanette Epps,female,United States,https://en.wikipedia.org/wiki/Jeanette_Epps,Q3175883,646,4 March 2024,SpaceX Crew-8,20316900,wikidata:P2873,1,0
+wikidata:Q30157793,Matthew Dominick,male,United States,https://en.wikipedia.org/wiki/Matthew_Dominick,Q30157793,646,4 March 2024,SpaceX Crew-8,20316900,wikidata:P2873,1,0
+wikipedia-first-flight:649:marina-vasilevskaya,Marina Vasilevskaya,,Belarus,https://en.wikipedia.org/wiki/Marina_Vasilevskaya,,649,23 March 2024,Soyuz MS-25,15895374,computed_from_segments,1,0
+wikidata:Q125575516,Li Cong,male,China,https://en.wikipedia.org/wiki/Li_Cong_(astronaut),Q125575516,650,25 April 2024,Shenzhou 18,16604700,computed_from_segments,1,0
+wikidata:Q125575710,Li Guangsu,male,China,https://en.wikipedia.org/wiki/Li_Guangsu,Q125575710,650,25 April 2024,Shenzhou 18,16604700,computed_from_segments,1,0
+wikipedia-first-flight:652:carol-schaller,Carol Schaller,,United States,https://en.wikipedia.org/wiki/Carol_Schaller,,652,19 May 2024,Blue Origin NS-25,593,computed_from_segments,1,0
+wikidata:Q20730310,Ed Dwight,male,United States,https://en.wikipedia.org/wiki/Ed_Dwight,Q20730310,652,19 May 2024,Blue Origin NS-25,593,computed_from_segments,1,0
+wikipedia-first-flight:652:gopichand-thotakura,Gopichand Thotakura,,India,,,652,19 May 2024,Blue Origin NS-25,593,computed_from_segments,1,0
+wikidata:Q6390205,Kenneth Hess,male,United States,https://en.wikipedia.org/wiki/Kenneth_Hess,Q6390205,652,19 May 2024,Blue Origin NS-25,593,computed_from_segments,1,0
+wikipedia-first-flight:652:mason-angel,Mason Angel,,United States,https://en.wikipedia.org/wiki/Mason_Angel,,652,19 May 2024,Blue Origin NS-25,593,computed_from_segments,1,0
+wikipedia-first-flight:652:sylvain-chiron,Sylvain Chiron,,France,https://en.wikipedia.org/wiki/Sylvain_Chiron,,652,19 May 2024,Blue Origin NS-25,593,computed_from_segments,1,0
+wikipedia-first-flight:658:eiman-jahangir,Eiman Jahangir,,Iran/ United States,,,658,29 August 2024,Blue Origin NS-26,608,computed_from_segments,1,0
+wikipedia-first-flight:658:ephraim-rabin,Ephraim Rabin,,United States/ Israel,,,658,29 August 2024,Blue Origin NS-26,608,computed_from_segments,1,0
+wikipedia-first-flight:658:eugene-grin,Eugene Grin,,Ukraine,,,658,29 August 2024,Blue Origin NS-26,608,computed_from_segments,1,0
+wikipedia-first-flight:658:karsen-kitchen,Karsen Kitchen,,United States,,,658,29 August 2024,Blue Origin NS-26,608,computed_from_segments,1,0
+wikipedia-first-flight:658:nicolina-elrick,Nicolina Elrick,,United Kingdom/ Singapore,,,658,29 August 2024,Blue Origin NS-26,608,computed_from_segments,1,0
+wikipedia-first-flight:658:rob-ferl,Rob Ferl,,United States,,,658,29 August 2024,Blue Origin NS-26,608,computed_from_segments,1,0
+wikidata:Q110916349,Anna Menon,female,United States,https://en.wikipedia.org/wiki/Anna_Menon,Q110916349,664,10 September 2024,Polaris Dawn,425585,computed_from_segments,1,0
+wikidata:Q110916738,Sarah Gillis,female,United States,https://en.wikipedia.org/wiki/Sarah_Gillis,Q110916738,664,10 September 2024,Polaris Dawn,425585,computed_from_segments,1,0
+wikidata:Q110916469,Scott Poteet,male,United States,https://en.wikipedia.org/wiki/Scott_Poteet,Q110916469,664,10 September 2024,Polaris Dawn,425585,computed_from_segments,1,0
+wikidata:Q109493064,Aleksandr Gorbunov,male,Russia,https://en.wikipedia.org/wiki/Aleksandr_Gorbunov,Q109493064,667,28 September 2024,SpaceX Crew-9,14791140,wikidata:P2873,1,0
+wikidata:Q130720159,Song Lingdong,male,China,https://en.wikipedia.org/wiki/Song_Lingdong,Q130720159,668,29 October 2024,Shenzhou 19,15756038,computed_from_segments,1,0
+wikidata:Q130720158,Wang Haoze,female,China,https://en.wikipedia.org/wiki/Wang_Haoze,Q130720158,668,29 October 2024,Shenzhou 19,15756038,computed_from_segments,1,0
+wikipedia-first-flight:670:austin-litteral,Austin Litteral,,United States,,,670,22 November 2024,Blue Origin NS-28,614,computed_from_segments,1,0
+wikidata:Q21005253,Emily Calandrelli,female,United States,https://en.wikipedia.org/wiki/Emily_Calandrelli,Q21005253,670,22 November 2024,Blue Origin NS-28,614,computed_from_segments,1,0
+wikipedia-first-flight:670:henry-wolfond,Henry Wolfond,,Canada,,,670,22 November 2024,Blue Origin NS-28,614,computed_from_segments,1,0
+wikipedia-first-flight:670:j-d-russell,J. D. Russell,,United States,,,670,22 November 2024,Blue Origin NS-28,614,computed_from_segments,1,0
+wikipedia-first-flight:674:elaine-hyde,Elaine Hyde,,Australia,,,674,25 February 2025,Blue Origin NS-30,608,computed_from_segments,1,0
+wikidata:Q3391832,Jesús Calleja,male,Spain,https://en.wikipedia.org/wiki/Jes%C3%BAs_Calleja,Q3391832,674,25 February 2025,Blue Origin NS-30,608,computed_from_segments,1,0
+wikipedia-first-flight:674:richard-scott,Richard Scott,,United States,,,674,25 February 2025,Blue Origin NS-30,608,computed_from_segments,1,0
+wikipedia-first-flight:674:russell-wilson,Russell Wilson,,United States,,,674,25 February 2025,Blue Origin NS-30,608,computed_from_segments,1,0
+wikipedia-first-flight:674:tushar-shah,Tushar Shah,,United States,,,674,25 February 2025,Blue Origin NS-30,608,computed_from_segments,1,0
+wikidata:Q109491455,Kirill Peskov,male,Russia,https://en.wikipedia.org/wiki/Kirill_Peskov,Q109491455,679,14 March 2025,SpaceX Crew-10,12760140,wikidata:P2873,1,0
+wikidata:Q109952150,Nichole Ayers,female,United States,https://en.wikipedia.org/wiki/Nichole_Ayers,Q109952150,679,14 March 2025,SpaceX Crew-10,12760140,wikidata:P2873,1,0
+wikidata:Q128996430,Chun Wang,male,Malta / Saint Kitts and Nevis,https://en.wikipedia.org/wiki/Chun_Wang,Q128996430,681,1 April 2025,Fram2,311558,computed_from_segments,1,0
+wikidata:Q5387272,Eric Philips,male,Australia,https://en.wikipedia.org/wiki/Eric_Philips_(explorer),Q5387272,681,1 April 2025,Fram2,311558,computed_from_segments,1,0
+wikidata:Q128988753,Jannicke Mikkelsen,female,Norway / UK,https://en.wikipedia.org/wiki/Jannicke_Mikkelsen,Q128988753,681,1 April 2025,Fram2,311558,computed_from_segments,1,0
+wikidata:Q128996418,Rabea Rogge,female,Germany,https://en.wikipedia.org/wiki/Rabea_Rogge,Q128996418,681,1 April 2025,Fram2,311558,computed_from_segments,1,0
+wikidata:Q109490367,Alexey Zubritsky,male,Russia,https://en.wikipedia.org/wiki/Alexey_Zubritsky,Q109490367,685,8 April 2025,Soyuz MS-27,21165360,wikidata:P2873,1,0
+wikidata:Q30157738,Jonny Kim,male,United States,https://en.wikipedia.org/wiki/Jonny_Kim,Q30157738,685,8 April 2025,Soyuz MS-27,21165360,wikidata:P2873,1,0
+wikidata:Q48472980,Aisha Bowe,female,Bahamas / United States,https://en.wikipedia.org/wiki/Aisha_Bowe,Q48472980,687,14 April 2025,Blue Origin NS-31,621,computed_from_segments,1,0
+wikidata:Q30595357,Amanda Nguyen,female,United States,https://en.wikipedia.org/wiki/Amanda_Nguyen,Q30595357,687,14 April 2025,Blue Origin NS-31,621,computed_from_segments,1,0
+wikidata:Q5528805,Gayle King,female,United States,https://en.wikipedia.org/wiki/Gayle_King,Q5528805,687,14 April 2025,Blue Origin NS-31,621,computed_from_segments,1,0
+wikidata:Q42493,Katy Perry,female,United States,https://en.wikipedia.org/wiki/Katy_Perry,Q42493,687,14 April 2025,Blue Origin NS-31,621,computed_from_segments,1,0
+wikidata:Q132798226,Kerianne Flynn,female,United States,https://en.wikipedia.org/wiki/Kerianne_Flynn,Q132798226,687,14 April 2025,Blue Origin NS-31,621,computed_from_segments,1,0
+wikipedia-first-flight:687:lauren-sanchez,Lauren Sánchez,,United States,https://en.wikipedia.org/wiki/Lauren_S%C3%A1nchez,,687,14 April 2025,Blue Origin NS-31,621,computed_from_segments,1,0
+wikidata:Q134061689,Chen Zhongrui,male,China,https://en.wikipedia.org/wiki/Chen_Zhongrui,Q134061689,693,24 April 2025,Shenzhou 20,23300189,computed_from_segments,1,0
+wikidata:Q134061792,Wang Jie,male,China,https://en.wikipedia.org/wiki/Wang_Jie_(taikonaut),Q134061792,693,24 April 2025,Shenzhou 20,23300189,computed_from_segments,1,0
+wikipedia-first-flight:695:amy-medina-jorge,Amy Medina Jorge,,Puerto Rico,,,695,31 May 2025,Blue Origin NS-32,607,computed_from_segments,1,0
+wikipedia-first-flight:695:gretchen-green,Gretchen Green,,United States,,,695,31 May 2025,Blue Origin NS-32,607,computed_from_segments,1,0
+wikidata:Q6123646,Jaime Alemán,male,Panama,https://en.wikipedia.org/wiki/Jaime_Alem%C3%A1n,Q6123646,695,31 May 2025,Blue Origin NS-32,607,computed_from_segments,1,0
+wikipedia-first-flight:695:jesse-williams,Jesse Williams,,Canada,,,695,31 May 2025,Blue Origin NS-32,607,computed_from_segments,1,0
+wikidata:Q117349392,Mark Rocket,male,New Zealand,https://en.wikipedia.org/wiki/Mark_Rocket,Q117349392,695,31 May 2025,Blue Origin NS-32,607,computed_from_segments,1,0
+wikipedia-first-flight:695:paul-jeris,Paul Jeris,,United States,,,695,31 May 2025,Blue Origin NS-32,607,computed_from_segments,1,0
+wikidata:Q124670652,Shubhanshu Shukla,male,India,https://en.wikipedia.org/wiki/Shubhanshu_Shukla,Q124670652,701,25 June 2025,Axiom Mission 4,1738740,wikidata:P2873,1,0
+wikidata:Q115387945,Sławosz Uznański-Wiśniewski,male,Poland,https://en.wikipedia.org/wiki/S%C5%82awosz_Uzna%C5%84ski-Wi%C5%9Bniewski,Q115387945,701,25 June 2025,Axiom Mission 4,1738740,wikidata:P2873,1,0
+wikidata:Q126127455,Tibor Kapu,male,Hungary,https://en.wikipedia.org/wiki/Tibor_Kapu,Q126127455,701,25 June 2025,Axiom Mission 4,1738740,wikidata:P2873,1,0
+wikipedia-first-flight:704:allie-kuehner,Allie Kuehner,,United States,,,704,29 June 2025,Blue Origin NS-33,614,computed_from_segments,1,0
+wikipedia-first-flight:704:carl-kuehner,Carl Kuehner,,United States,,,704,29 June 2025,Blue Origin NS-33,614,computed_from_segments,1,0
+wikipedia-first-flight:704:freddie-rescigno-jr,Freddie Rescigno Jr.,,United States,,,704,29 June 2025,Blue Origin NS-33,614,computed_from_segments,1,0
+wikipedia-first-flight:704:jim-sitkin,Jim Sitkin,,United States,,,704,29 June 2025,Blue Origin NS-33,614,computed_from_segments,1,0
+wikipedia-first-flight:704:leland-larson,Leland Larson,,United States,,,704,29 June 2025,Blue Origin NS-33,614,computed_from_segments,1,0
+wikipedia-first-flight:704:owolabi-salis,Owolabi Salis,,Nigeria,,,704,29 June 2025,Blue Origin NS-33,614,computed_from_segments,1,0
+wikidata:Q109490108,Oleg Platonov,male,Russia,https://en.wikipedia.org/wiki/Oleg_Platonov_(cosmonaut),Q109490108,710,1 August 2025,SpaceX Crew-11,14403420,wikidata:P2873,1,0
+wikidata:Q30157791,Zena Cardman,female,United States,https://en.wikipedia.org/wiki/Zena_Cardman,Q30157791,710,1 August 2025,SpaceX Crew-11,14403420,wikidata:P2873,1,0
+wikipedia-first-flight:712:arvinder-bahal,Arvinder Bahal,,United States,,,712,3 August 2025,Blue Origin NS-34,600,computed_from_segments,1,0
+wikipedia-first-flight:712:deborah-martorell,Deborah Martorell,,Puerto Rico,,,712,3 August 2025,Blue Origin NS-34,600,computed_from_segments,1,0
+wikipedia-first-flight:712:gokhan-erdem,Gökhan Erdem,,Turkey,,,712,3 August 2025,Blue Origin NS-34,600,computed_from_segments,1,0
+wikidata:Q30948807,Justin Sun,male,Saint Kitts and Nevis,https://en.wikipedia.org/wiki/Justin_Sun,Q30948807,712,3 August 2025,Blue Origin NS-34,600,computed_from_segments,1,0
+wikipedia-first-flight:712:lionel-pitchford,Lionel Pitchford,,United Kingdom,,,712,3 August 2025,Blue Origin NS-34,600,computed_from_segments,1,0
+wikipedia-first-flight:717:aaron-newman,Aaron Newman,,United States,,,717,8 October 2025,Blue Origin NS-36,621,computed_from_segments,1,0
+wikipedia-first-flight:717:danna-karagussova,Danna Karagussova,,Kazakhstan,,,717,8 October 2025,Blue Origin NS-36,621,computed_from_segments,1,0
+wikipedia-first-flight:717:jeff-elgin,Jeff Elgin,,United States,,,717,8 October 2025,Blue Origin NS-36,621,computed_from_segments,1,0
+wikipedia-first-flight:717:vitalii-ostrovsky,Vitalii Ostrovsky,,Ukraine,,,717,8 October 2025,Blue Origin NS-36,621,computed_from_segments,1,0
+wikipedia-first-flight:717:william-h-lewis,William H. Lewis,,United States,,,717,8 October 2025,Blue Origin NS-36,621,computed_from_segments,1,0
+wikidata:Q136675056,Wu Fei,male,China,https://en.wikipedia.org/wiki/Wu_Fei_(taikonaut),Q136675056,722,31 October 2025,Shenzhou 21,1184145,computed_from_segments,1,0
+wikidata:Q56996233,Zhang Hongzhang,male,China,https://en.wikipedia.org/wiki/Zhang_Hongzhang,Q56996233,722,31 October 2025,Shenzhou 21,1184145,computed_from_segments,1,0
+wikidata:Q109969080,Christopher Williams,male,United States,https://en.wikipedia.org/wiki/Christopher_Williams_(astronaut),Q109969080,724,27 November 2025,Soyuz MS-28,15130866,computed_from_segments,1,1
+wikidata:Q109490152,Sergey Mikayev,male,Russia,https://en.wikipedia.org/wiki/Sergey_Mikayev,Q109490152,724,27 November 2025,Soyuz MS-28,15130866,computed_from_segments,1,1
+wikipedia-first-flight:726:adonis-pouroulis,Adonis Pouroulis,,South Africa,,,726,20 December 2025,Blue Origin NS-37,626,computed_from_segments,1,0
+wikidata:Q65091051,Hans Koenigsmann,male,United States / Germany,https://en.wikipedia.org/wiki/Hans_Koenigsmann,Q65091051,726,20 December 2025,Blue Origin NS-37,626,computed_from_segments,1,0
+wikipedia-first-flight:726:jason-stansell,Jason Stansell,,United States,,,726,20 December 2025,Blue Origin NS-37,626,computed_from_segments,1,0
+wikipedia-first-flight:726:joey-hyde,Joey Hyde,,United States,,,726,20 December 2025,Blue Origin NS-37,626,computed_from_segments,1,0
+wikidata:Q137204362,"Michaela ""Michi"" Benthaus",female,Germany,https://en.wikipedia.org/wiki/Michaela_Benthaus,Q137204362,726,20 December 2025,Blue Origin NS-37,626,computed_from_segments,1,0
+wikipedia-first-flight:726:neal-milch,Neal Milch,,United States,,,726,20 December 2025,Blue Origin NS-37,626,computed_from_segments,1,0
+wikipedia-first-flight:732:alain-fernandez,Alain Fernandez,,France,,,732,22 January 2026,Blue Origin NS-38,612,computed_from_segments,1,0
+wikipedia-first-flight:732:alberto-gutierrez,Alberto Gutiérrez,,Spain,,,732,22 January 2026,Blue Origin NS-38,612,computed_from_segments,1,0
+wikidata:Q16195112,Jim Hendren,male,United States,https://en.wikipedia.org/wiki/Jim_Hendren,Q16195112,732,22 January 2026,Blue Origin NS-38,612,computed_from_segments,1,0
+wikidata:Q137860992,Laura Stiles,female,United States,https://en.wikipedia.org/wiki/Laura_Stiles,Q137860992,732,22 January 2026,Blue Origin NS-38,612,computed_from_segments,1,0
+wikipedia-first-flight:732:linda-edwards,Linda Edwards,,United States,,,732,22 January 2026,Blue Origin NS-38,612,computed_from_segments,1,0
+wikipedia-first-flight:732:tim-drexler,Tim Drexler,,United States,,,732,22 January 2026,Blue Origin NS-38,612,computed_from_segments,1,0
+wikidata:Q109968900,Jack Hathaway,male,United States,https://en.wikipedia.org/wiki/Jack_Hathaway,Q109968900,738,13 February 2026,SpaceX Crew-12,8388787,computed_from_segments,1,1
+wikidata:Q87399454,Sophie Adenot,female,France,https://en.wikipedia.org/wiki/Sophie_Adenot,Q87399454,738,13 February 2026,SpaceX Crew-12,8388787,computed_from_segments,1,1
+wikidata:Q1687593,Jeremy Hansen,male,Canada,https://en.wikipedia.org/wiki/Jeremy_Hansen,Q1687593,740,1 April 2026,Artemis II,783135,computed_from_segments,1,0
