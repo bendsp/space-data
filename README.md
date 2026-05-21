@@ -48,6 +48,21 @@ Wikidata precision values are preserved:
 
 For website work, use Unix seconds for calculations and use the ISO columns plus precision fields when displaying source-sensitive dates.
 
+## Website
+
+The static site is a Vite/React app. It exports the SQLite data into `public/data/space-data.json` during `npm run build`, then serves the site from `dist`.
+
+```bash
+npm install
+npm run dev
+npm run build
+```
+
+Railway can use:
+
+- Build command: `npm run build`
+- Start command: `npm start`
+
 ## Sources
 
 The canonical person list comes from Wikipedia's FAI/Karman-line first-flight list. Wikidata enriches people with gender, total-time statements, sitelinks, and mission crew links. Mission pages on Wikipedia enrich exact launch, landing, and duration values when Wikidata only has date precision.
