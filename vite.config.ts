@@ -5,6 +5,9 @@ import { defineConfig } from "vite"
 
 export default defineConfig({
   plugins: [react(), tailwindcss()],
+  preview: {
+    allowedHosts: ["space-data-production.up.railway.app"],
+  },
   resolve: {
     alias: {
       "@": path.resolve(__dirname, "./src"),
