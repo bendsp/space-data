@@ -142,6 +142,85 @@
   min-height: 42rem;
 }
 
+.current-section {
+  padding: 1.75rem clamp(1.25rem, 3vw, 3rem) 0.25rem;
+  border-top: 1px solid rgb(255 255 255 / 7%);
+  background: linear-gradient(180deg, rgb(5 7 12 / 96%) 0%, rgb(5 7 12 / 68%) 100%);
+}
+
+.current-heading {
+  max-width: 72rem;
+  margin: 0 auto 1rem;
+}
+
+.current-list {
+  width: min(72rem, 100%);
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: repeat(7, minmax(0, 1fr));
+  border-top: 1px solid rgb(255 255 255 / 10%);
+}
+
+.current-person {
+  min-width: 0;
+  display: grid;
+  grid-template-rows: auto auto auto auto;
+  justify-items: start;
+  gap: 0.35rem;
+  padding: 1rem 0.85rem 1.1rem;
+  border: 0;
+  border-right: 1px solid rgb(255 255 255 / 8%);
+  background: transparent;
+  color: inherit;
+  text-align: left;
+  cursor: pointer;
+}
+
+.current-person:last-child {
+  border-right: 0;
+}
+
+.current-person:hover,
+.current-person:focus-visible {
+  background: rgb(255 255 255 / 4%);
+  outline: none;
+}
+
+.current-avatar {
+  width: 2.35rem;
+  height: 2.35rem;
+  margin-bottom: 0.25rem;
+}
+
+.current-time {
+  max-width: 100%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.current-name {
+  max-width: 100%;
+  font-size: 0.88rem;
+  font-weight: 650;
+  line-height: 1.2;
+}
+
+.current-mission {
+  max-width: 100%;
+  min-height: 2.2em;
+  color: rgb(226 232 240 / 58%);
+  font-size: 0.76rem;
+  line-height: 1.1;
+}
+
+.current-time {
+  color: #f8fafc;
+  font-size: 1.15rem;
+  font-weight: 720;
+  line-height: 1;
+}
+
 .main-column {
   min-width: 0;
   padding: 2rem clamp(1.25rem, 3vw, 3rem) 4rem;
@@ -427,6 +506,18 @@
     grid-template-columns: 1fr;
   }
 
+  .current-list {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+
+  .current-person {
+    border-bottom: 1px solid rgb(255 255 255 / 8%);
+  }
+
+  .current-person:nth-child(4n) {
+    border-right: 0;
+  }
+
   .detail-panel {
     position: static;
     height: auto;
@@ -449,6 +540,29 @@
   .main-column,
   .detail-panel {
     padding-inline: 1rem;
+  }
+
+  .current-section {
+    padding-inline: 1rem;
+  }
+
+  .current-list {
+    display: flex;
+    gap: 0;
+    overflow-x: auto;
+    padding-bottom: 0.35rem;
+    scroll-snap-type: x mandatory;
+  }
+
+  .current-person {
+    flex: 0 0 12rem;
+    border-right: 1px solid rgb(255 255 255 / 8%);
+    border-bottom: 0;
+    scroll-snap-align: start;
+  }
+
+  .current-person:nth-child(4n) {
+    border-right: 1px solid rgb(255 255 255 / 8%);
   }
 
   .timeline-field {

@@ -172,6 +172,58 @@ function Timeline({
   )
 }
 
+function CurrentSpace({
+  people,
+  segmentsByPerson,
+  nowUnix,
+  onSelect,
+}: {
+  people: Astronaut[]
+  segmentsByPerson: Map<string, Segment[]>
+  nowUnix: number
+  onSelect: (person: Astronaut) => void
+}) {
+  const assignments = people
+    .map((person) => {
+      const segment = segmentsByPerson.get(person.id)?.find((item) => item.is_current)
+      return segment ? { person, segment } : null
+    })
+    .filter((item): item is { person: Astronaut; segment: Segment } => Boolean(item))
+    .sort((a, b) => a.segment.start_unix - b.segment.start_unix || a.person.name.localeCompare(b.person.name))
+
+  if (!assignments.length) return null
+
+  return (
+    <section className="current-section" aria-labelledby="current-heading">
+      <div className="section-heading current-heading">
+        <div>
+          <h2 id="current-heading">In Space Now</h2>
+          <p>{assignments.length.toLocaleString()} people currently beyond Earth.</p>
+        </div>
+      </div>
+
+      <div className="current-list">
+        {assignments.map(({ person, segment }) => {
+          const elapsed = Math.max(0, nowUnix - segment.start_unix)
+          return (
+            <button
+              className="current-person"
+              key={person.id}
+              type="button"
+              onClick={() => onSelect(person)}
+            >
+              <PersonAvatar person={person} className="current-avatar" />
+              <span className="current-name">{person.name}</span>
+              <span className="current-mission">{segment.mission_names.slice(0, 2).join(" / ")}</span>
+              <span className="current-time">{days(elapsed)}d</span>
+            </button>
+          )
+        })}
+      </div>
+    </section>
+  )
+}
+
 function DetailPanel({
   person,
   segments,
@@ -242,6 +294,7 @@ export default function App() {
   const [data, setData] = useState<SpaceData | null>(null)
   const [selectedId, setSelectedId] = useState<string | null>(null)
   const [query, setQuery] = useState("")
+  const [nowUnix, setNowUnix] = useState(() => Math.floor(Date.now() / 1000))
 
   useEffect(() => {
     let cancelled = false
@@ -262,6 +315,14 @@ export default function App() {
     return () => {
       cancelled = true
     }
+  }, [])
+
+  useEffect(() => {
+    const interval = window.setInterval(() => {
+      setNowUnix(Math.floor(Date.now() / 1000))
+    }, 60_000)
+
+    return () => window.clearInterval(interval)
   }, [])
 
   const segmentsByPerson = useMemo(() => {
@@ -336,6 +397,13 @@ export default function App() {
           </div>
         </div>
       </section>
+
+      <CurrentSpace
+        people={currentPeople}
+        segmentsByPerson={segmentsByPerson}
+        nowUnix={nowUnix}
+        onSelect={(person) => setSelectedId(person.id)}
+      />
 
       <div className="content-grid">
         <div className="main-column">
